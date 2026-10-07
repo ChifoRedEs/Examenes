@@ -1,0 +1,987 @@
+{
+  "categoria": "Celador SMS",
+  "titulo": "Cuestionario Oficial Oposiciones Celador SMS (Test General)",
+  "preguntas": [
+    {
+      "id": 1,
+      "texto": "Según se desprende del artículo 37 de la constitución española de 1978, el \"derecho a la negociación colectiva\", significa para la constitución:",
+      "opciones": {
+        "A": "Que la ley solo garantiza ese derecho entre los representantes de los trabajadores y empresarios.",
+        "B": "Que la ley solo garantiza ese derecho entre los representantes de los trabajadores, empresarios y administración pública de su respectivo ámbito.",
+        "C": "Se reconoce el derecho de los trabajadores y empresarios a adoptar medidas de conflicto.",
+        "D": "La negociación colectiva sólo será obligatoria para los representantes de los trabajadores y empresarios cuando no les sea de aplicación lo establecido en el Estatuto de los Trabajadores, teniendo en cuenta el ámbito territorial y sectorial de la negociación."
+      },
+      "correcta": "A"
+    },
+    {
+      "id": 2,
+      "texto": "¿Cuál de los siguientes criterios no se ponderará por la administración, cuando tuviera que exigir de sus autoridades y demás personal a su servicio la responsabilidad en que hubieran incurrido por dolo, o culpa o negligencia graves (artículo 145.2 Ley 30/1992, de 26 de noviembre)?",
+      "opciones": {
+        "A": "Su relación con la producción del resultado dañoso.",
+        "B": "El resultado engañoso producido.",
+        "C": "La responsabilidad profesional del personal.",
+        "D": "Todos los anteriores son criterios que figuran como criterios a ponderar."
+      },
+      "correcta": "B"
+    },
+    {
+      "id": 3,
+      "texto": "De acuerdo con lo establecido en el artículo 21 de la constitución española de 1978, el \"derecho de reunión\" precisa de:",
+      "opciones": {
+        "A": "Comunicación prevista en la Constitución según el caso.",
+        "B": "Comunicación previa a la autoridad, en el caso de manifestaciones.",
+        "C": "Autorización previa de la autoridad, en el caso de manifestaciones.",
+        "D": "Autorización previa, para el caso de reuniones en lugares de tránsito público."
+      },
+      "correcta": "D"
+    },
+    {
+      "id": 4,
+      "texto": "¿Cuál de los siguientes principios figura entre los establecidos en la constitución española de 1978, como \"principios rectores de la política social y económica\"?",
+      "opciones": {
+        "A": "Los padres deben prestar asistencia sanitaria en todo orden a los hijos habidos dentro y fuera del matrimonio, hasta los dieciséis años de edad..",
+        "B": "Los poderes públicos aseguran la protección social, económica, política y jurídica de la familia.",
+        "C": "Los poderes públicos mantendrán un régimen público de Seguridad Social para todos los ciudadanos, que garantice la asistencia y prestaciones complementarias ante situaciones de necesidad.",
+        "D": "Ninguna de las respuestas anteriores es correcta."
+      },
+      "correcta": "D"
+    },
+    {
+      "id": 5,
+      "texto": "Respecto a la garantía de la \"libertad ideológica y religiosa\", el artículo 16.1 De la constitución española de 1978, dispone que:",
+      "opciones": {
+        "A": "No tienen ninguna limitación.",
+        "B": "Tiene limitación, en cuanto a su manifestación, en lo relativo al orden público.",
+        "C": "Tiene limitación en cuanto a su ejercicio protegido por la ley.",
+        "D": "Ninguna confesión tendrá carácter estatal."
+      },
+      "correcta": "B"
+    },
+    {
+      "id": 6,
+      "texto": "Respecto al derecho al trabajo regulado en la Constitución:",
+      "opciones": {
+        "A": "Todos los españoles tienen la obligación de trabajar.",
+        "B": "Es uno de los derechos y deberes de los ciudadanos.",
+        "C": "La Ley regulará un estatuto de los trabajadores.",
+        "D": "Son correctas las respuestas B y С."
+      },
+      "correcta": "D"
+    },
+    {
+      "id": 7,
+      "texto": "La Ley 40/2015 de 1 de octubre de Régimen Jurídico del Sector Público, establece que en el procedimiento para la exigencia de responsabilidad de las autoridades y personal al servicio de las Administraciones Públicas, una vez notificado al interesado, este dispondrá de un período para formular Alegaciones de:",
+      "opciones": {
+        "A": "10 días.",
+        "B": "1 mes.",
+        "C": "15 días.",
+        "D": "El tiempo que el instructor del procedimiento considere necesario."
+      },
+      "correcta": "C"
+    },
+    {
+      "id": 8,
+      "texto": "Respecto a la libertad de sindicación, la Constitución contempla que:",
+      "opciones": {
+        "A": "Todos tienen derecho a sindicarse libremente.",
+        "B": "El ejercicio de este derecho podrá ser limitado a las Fuerzas armadas.",
+        "C": "La ley podrá regular las peculiaridades de su ejercicio para los funcionarios públicos.",
+        "D": "Todas las respuestas anteriores son ciertas."
+      },
+      "correcta": "D"
+    },
+    {
+      "id": 9,
+      "texto": "Respecto a las obligaciones de los poderes públicos con los ciudadanos de la tercera edad que la Constitución establece, señale la que no es correcta:",
+      "opciones": {
+        "A": "Garantizarán la suficiencia económica, mediante pensiones adecuadas y periódicamente actualizadas.",
+        "B": "Un sistema de servicios sociales atenderá sus necesidades de salud y vivienda.",
+        "C": "Sustituyen a los obligados familiarmente, atendiendo sus necesidades.",
+        "D": "Un sistema de servicios sociales atenderá sus necesidades de cultura y ocio."
+      },
+      "correcta": "C"
+    },
+    {
+      "id": 10,
+      "texto": "La Constitución establece respecto a la igualdad de los españoles ante la Ley:",
+      "opciones": {
+        "A": "Puede prevalecer discriminación en base a ciertas circunstancias sociales.",
+        "B": "Se regula en la Constitución española dentro de los derechos y libertades de los españoles.",
+        "C": "Puede prevalecer discriminación en base a determinadas circunstancias personales.",
+        "D": "No se trata de un derecho fundamental."
+      },
+      "correcta": "B"
+    },
+    {
+      "id": 11,
+      "texto": "La Ley de Régimen Jurídico del Sector Público, establece sobre la responsabilidad de las autoridades y personal al servicio de las Administraciones Públicas (señale la incorrecta):",
+      "opciones": {
+        "A": "La resolución declaratoria de responsabilidad no pondrá fin a la vía administrativa.",
+        "B": "La resolución declaratoria de responsabilidad pondrá fin a la vía administrativa.",
+        "C": "La resolución será dictada por el órgano competente en el plazo de 5 días.",
+        "D": "El órgano competente formulará la propuesta de resolución en el plazo de 5 días a contar desde la finalización del trámite de audiencia."
+      },
+      "correcta": "A"
+    },
+    {
+      "id": 12,
+      "texto": "El Estatuto de Autonomía de la Región de Murcia, establece respecto al número de diputados regionales que constituyen la Asamblea Regional:",
+      "opciones": {
+        "A": "El Estatuto es claro en este aspecto y establece que son cincuenta.",
+        "B": "Su número de miembros será fijado por ley, no será inferior a cuarenta y cinco ni superior a cincuenta y cinco.",
+        "C": "Su número dependerá de los que cada grupo político elija como sus representantes.",
+        "D": "El estatuto no establece un número exacto de diputados regionales, varía cada cuatro años."
+      },
+      "correcta": "B"
+    },
+    {
+      "id": 13,
+      "texto": "El Estatuto de Autonomía de la Región de Murcia establece que la Administración Pública de la Región responderá a los principios de:",
+      "opciones": {
+        "A": "Descentralización y desconcentración.",
+        "B": "Legalidad, eficacia y economía.",
+        "C": "Jerarquía y coordinación.",
+        "D": "Todas las anteriores son correctas."
+      },
+      "correcta": "D"
+    },
+    {
+      "id": 14,
+      "texto": "La Asamblea puede exigir la responsabilidad política del Consejo de Gobierno y de su Presidente, mediante la adopción, por mayoría absoluta de sus miembros, de una moción de censura. La moción de censura deberá ser propuesta por (artículo 33 de la Ley Orgánica 4/1982, de 9 de junio, del Estatuto de Autonomía de la Región de Murcia):",
+      "opciones": {
+        "A": "Al menos por el 15% de los Diputados Regionales.",
+        "B": "El 15% de los Diputados Regionales.",
+        "C": "El 50% de los Diputados Regionales.",
+        "D": "Al menos por el 50% de los Diputados Regionales."
+      },
+      "correcta": "A"
+    },
+    {
+      "id": 15,
+      "texto": "Según lo establecido en el artículo 51 de la Ley Orgánica 4/1982, de 9 de junio, del Estatuto de Autonomía de la Región de Murcia, \"la organización de administración pública de la región\" responderá a los principios de:",
+      "opciones": {
+        "A": "Legalidad, eficacia, economía, jerarquía y coordinación.",
+        "B": "Legalidad, eficacia, economía, jerarquía y coordinación, así como a los de descentralización y desconcentración.",
+        "C": "Legalidad, eficacia, economía, jerarquía, coordinación y sometimiento a la Ley.",
+        "D": "Legalidad, eficacia, eficiencía, economía, jerarquía y coordinación, así como a los de descentralización y desconcentración."
+      },
+      "correcta": "B"
+    },
+    {
+      "id": 16,
+      "texto": "La Asamblea Regional de Murcia fijará por ley el número de sus miembros, siendo estos (Diputados Regionales):",
+      "opciones": {
+        "A": "No será inferior a 45 ni superior a 55.",
+        "B": "No será inferior a 35 ni superior a 45.",
+        "C": "No será superior a 55.",
+        "D": "No será inferior a 55 ni superior a 65."
+      },
+      "correcta": "A"
+    },
+    {
+      "id": 17,
+      "texto": "De acuerdo con lo establecido en el artículo 22 de la Ley Orgánica 4/1982, de 9 de junio, del Estatuto de Autonomía de la Región de Murcia, ¿qué función de las que se indican a continuación, corresponde a la asamblea regional?",
+      "opciones": {
+        "A": "Aprobar los presupuestos y controlar la acción del Consejo de Gobierno.",
+        "B": "Informar los presupuestos; impulsar, orientar y controlar la acción del Gobierno y el Presidente.",
+        "C": "Aprobar los presupuestos; impulsar, orientar y controlar la acción del Gobierno y el Presidente.",
+        "D": "Controlar el cumplimiento de los presupuestos y nombramiento de los diputados."
+      },
+      "correcta": "C"
+    },
+    {
+      "id": 18,
+      "texto": "¿En qué casos deberá de reunirse la Asamblea Regional de Murcia en sesión extraordinaria?",
+      "opciones": {
+        "A": "A petición del Consejo de Gobierno, de la Diputación Permanente de la Asamblea Regional, o de la cuarta parte de los Diputados Regionales.",
+        "B": "A petición del Consejo de Gobierno, de la Diputación Permanente de la Asamblea Regional, o la mayoría parte de los Diputados Regionales.",
+        "C": "A petición del Consejo de Gobierno, de la Diputación Permanente de la Asamblea Regional, o la mayoría simple de los Diputados Regionales.",
+        "D": "A petición del Consejo de Gobierno, de la Diputación Permanente, o de la cuarta parte de los Diputados Regionales."
+      },
+      "correcta": "A"
+    },
+    {
+      "id": 19,
+      "texto": "El Tratado sobre el funcionamiento de la Unión Europea establece sobre el empleo que los Estados miembros y la Unión (señale la incorrecta):",
+      "opciones": {
+        "A": "Se esforzarán por desarrollar una política económica y de empleo que no necesariamente seguirá las directrices de la Unión.",
+        "B": "Potenciarán una mano de obra cualificada, formada y adaptable.",
+        "C": "Desarrollarán mercados laborales con capacidad de respuesta al cambio económico.",
+        "D": "Todo ello con vistas a lograr los objetivos definidos en el art. 3 del Tratado de la Unión Europea, sobre una economía tendente al pleno empleo."
+      },
+      "correcta": "A"
+    },
+    {
+      "id": 20,
+      "texto": "Según el Tratado de la Unión Europea, la forma de elegir a los diputados del Parlamento Europeo es:",
+      "opciones": {
+        "A": "Por sufragio activo, libre y secreto, para un mandato de 4 años.",
+        "B": "Por sufragio pasivo, libre y secreto, para un mandato de 5 años.",
+        "C": "Por sufragio universal directo, libre y secreto, para un mandato de 5 años.",
+        "D": "Los diputados del Parlamento Europeo se eligen entre los diputados de las Cortes Generales."
+      },
+      "correcta": "C"
+    },
+    {
+      "id": 21,
+      "texto": "Señale la afirmación correcta en relación con la Unión Europea:",
+      "opciones": {
+        "A": "Ciudadano de la Unión Europea es toda persona que ostente la nacionalidad de un Estado miembro.",
+        "B": "Todo ciudadano de la Unión Europea tendrá derecho a residir libremente en el territorio de los Estados miembros.",
+        "C": "Todo ciudadano de la Unión Europea tendrá el derecho de petición ante el Parlamento Europeo.",
+        "D": "Todas las respuestas son correctas."
+      },
+      "correcta": "D"
+    },
+    {
+      "id": 26,
+      "texto": "Según la Ley 14/1986 General de Sanidad en relación con las competencias de las Corporaciones Locales, los Ayuntamientos tendrán al menos las siguientes responsabilidades mínimas en relación al obligado cumplimiento de las normas y planes sanitarios:",
+      "opciones": {
+        "A": "Control sanitario de los cementerios y policía sanitaria mortuoria.",
+        "B": "Control sanitario de la distribución y suministro de alimentos, bebidas y demás productos, directa o indirectamente relacionados con el uso o consumo humanos, así como los medios de su transporte.",
+        "C": "Control sanitario de industrias, actividades y servicios, transportes, ruidos y vibraciones.",
+        "D": "Todas las responsabilidades anteriores."
+      },
+      "correcta": "D"
+    },
+    {
+      "id": 27,
+      "texto": "Según la Ley 14/86 General de Sanidad, señale cuál de las siguientes afirmaciones es la correcta:",
+      "opciones": {
+        "A": "La zona básica de salud es el núcleo territorial de la atención primaria donde desarrollan las actividades sanitarias todos los Centros de Salud de una Comunidad Autónoma.",
+        "B": "La zona básica de salud es el marco territorial de la atención primaria de salud donde desarrollan las actividades sanitarias los Centros de Salud, centros integrales de atención primaria.",
+        "C": "La zona básica de salud y el Centro de Salud son las unidades básicas que prestan la atención sanitaria a la población de una forma integral.",
+        "D": "La zona básica de salud es el núcleo territorial de la atención primaria y especializada donde desarrollan las actividades sanitarias los Centros de salud."
+      },
+      "correcta": "B"
+    },
+    {
+      "id": 28,
+      "texto": "Según la ley 14/1986 General de Sanidad en relación con las competencias de las Comunidades Autónomas:",
+      "opciones": {
+        "A": "Ejercerán las competencias asumidas en sus Estatutos y las que el Estado les transfiera o, en su caso, les delegue.",
+        "B": "Ejercerán las competencias que el Estado les transfiera exclusivamente.",
+        "C": "En ningún caso podrán ejercer competencias por delegación.",
+        "D": "Solo podrán ejercer las competencias asumidas en sus Estatutos de Autonomía."
+      },
+      "correcta": "A"
+    },
+    {
+      "id": 29,
+      "texto": "Según la ley 14/1986 General de Sanidad señale cuál de las siguientes afirmaciones no corresponde a los distintos derechos de los usuarios respecto a las distintas administraciones públicas sanitarias:",
+      "opciones": {
+        "A": "Cuidar las instalaciones y colaborar en el mantenimiento de la habitabilidad de las Instituciones Sanitarias.",
+        "B": "A que se le asigne un médico, cuyo nombre se le dará a conocer, que será su interlocutor principal con el equipo asistencial.",
+        "C": "Al respeto a su personalidad, dignidad humana e intimidad, sin que pueda ser discriminado por su origen racial o étnico, por razón de género y orientación sexual, de discapacidad o de cualquier otra circunstancia personal o social.",
+        "D": "A obtener los medicamentos y productos sanitarios que se consideren necesarios para promover, conservar o restablecer su salud."
+      },
+      "correcta": "A"
+    },
+    {
+      "id": 30,
+      "texto": "¿Cuál de las siguientes afirmaciones en relación a la orientación de las actuaciones de las Administraciones Públicas Sanitarias según la Ley 14/1986 General de Sanidad no es correcta?:",
+      "opciones": {
+        "A": "A garantizar la asistencia sanitaria en todos los casos de pérdida de salud.",
+        "B": "A promover el interés individual, familiar y social por la salud mediante la adecuada educación sanitaria a la población.",
+        "C": "A garantizar que cuantas acciones sanitarias se desarrollen estén dirigidas a la prevención de las enfermedades y no solo a la curación de las mismas.",
+        "D": "A garantizar la promoción de la salud mediante la realización de estudios epidemiológicos para la curación de las enfermedades."
+      },
+      "correcta": "D"
+    },
+    {
+      "id": 31,
+      "texto": "El artículo 3 de la ley general de sanidad sobre principios generales del sistema de salud establece que:",
+      "opciones": {
+        "A": "Los medios y actuaciones del sistema sanitario estarán orientados prioritariamente a la promoción de la salud y a la prevención de las enfermedades.",
+        "B": "Los medios y actuaciones del sistema sanitario estarán orientados prioritariamente a la promoción de la salud y a la prevención de las enfermedades.",
+        "C": "La asistencia sanitaria pública se extenderá a toda la población Española.",
+        "D": "La política de salud estará orientada a la superación de los desequilibrios económicos y sociales."
+      },
+      "correcta": "B"
+    },
+    {
+      "id": 32,
+      "texto": "¿Quién aprueba las normas precisas para evitar el intrusismo profesional y mala práctica?",
+      "opciones": {
+        "A": "Consejo Interterritorial.",
+        "B": "Consejería de Sanidad y Consumo.",
+        "C": "Gobierno.",
+        "D": "Ministerio de Sanidad y Consumo."
+      },
+      "correcta": "C"
+    },
+    {
+      "id": 33,
+      "texto": "El plan de salud de cada comunidad autónoma, se ajustará, según el artículo 54 de la ley general de sanidad:",
+      "opciones": {
+        "A": "A las directrices generales establecidas por la Consejería de Sanidad y Consumo.",
+        "B": "A los criterios generales de coordinación aprobados por el Consejo Interterritorial.",
+        "C": "A los criterios generales de coordinación aprobados por el Gobierno.",
+        "D": "A las directrices generales aprobadas por el Ministerio de Sanidad y Consumo."
+      },
+      "correcta": "C"
+    },
+    {
+      "id": 34,
+      "texto": "De acuerdo con lo establecido en el artículo 10 de la ley general de sanidad, ¿cuál de los siguientes es un derecho de los usuarios que serán ejercidos tanto en los servicios sanitarios públicos como privados?",
+      "opciones": {
+        "A": "A obtener los medicamentos y productos sanitarios que se consideren necesarios para promover, conservar o restablecer su salud.",
+        "B": "A elegir el médico y los demás sanitarios titulares de acuerdo con las condiciones contempladas en esta ley.",
+        "C": "A que se le asigne un médico cuyo nombre se le dará a conocer, que será su interlocutor principal con el equipo asistencial.",
+        "D": "A la información sobre los servicios sanitarios a que puede acceder y sobre los requisitos necesarios para su uso."
+      },
+      "correcta": "C"
+    },
+    {
+      "id": 35,
+      "texto": "La ley general de sanidad en su artículo 6 señala que las actuaciones de las administraciones públicas sanitarias estarán orientadas (señale la incorrecta):",
+      "opciones": {
+        "A": "A la promoción de la salud.",
+        "B": "A garantizar que cuantas acciones sanitarias se desarrollen estén dirigidas a la prevención de las enfermedades y no solo a la curación de las mismas.",
+        "C": "A garantizar la asistencia sanitaria en todos los casos de pérdida de salud.",
+        "D": "A promover las acciones necesarias para la rehabilitación funcional y reinserción profesional del paciente."
+      },
+      "correcta": "D"
+    },
+    {
+      "id": 36,
+      "texto": "¿Cuántos representantes de los ayuntamientos del área de salud están presentes en el consejo de salud del área (artículo 18 Ley 4/1994 de salud de la región de murcia)?",
+      "opciones": {
+        "A": "Dos.",
+        "B": "Seis.",
+        "C": "Cuatro.",
+        "D": "Uno."
+      },
+      "correcta": "C"
+    },
+    {
+      "id": 37,
+      "texto": "Según el artículo 12 de la ley 4/1994, de 26 de julio, de salud de la región de murcia, cada área de salud estará vinculada a un hospital general, con los servicios que aconseje:",
+      "opciones": {
+        "A": "El Servicio Murciano de Salud.",
+        "B": "El Plan de Salud del Área.",
+        "C": "La Consejería de Sanidad.",
+        "D": "El Consejo de Salud del Área."
+      },
+      "correcta": "B"
+    },
+    {
+      "id": 38,
+      "texto": "Aprobar los planes de ordenación de recursos humanos, de acuerdo con el artículo 5 del decreto 148/2002, por el que se establece la estructura y funciones de los órganos de participación, administración y gestión del servicio murciano de salud, de 27 de diciembre, corresponde a:",
+      "opciones": {
+        "A": "La Dirección General de Recursos Humanos.",
+        "B": "El Director Gerente del Servicio Murciano de Salud.",
+        "C": "El Consejo de Administración.",
+        "D": "El Consejero de Sanidad."
+      },
+      "correcta": "C"
+    },
+    {
+      "id": 39,
+      "texto": "Promocionar la formación en investigación básica y aplicada en salud pública es, según el artículo 13 de la ley 4/1994, de 26 de julio, de salud de la región de murcia, una función:",
+      "opciones": {
+        "A": "Del Gerente de Área u órgano análogo.",
+        "B": "Del Consejero de Sanidad.",
+        "C": "Del Consejo de Salud del Área.",
+        "D": "Del Consejo Interterritorial."
+      },
+      "correcta": "A"
+    },
+    {
+      "id": 40,
+      "texto": "Según el artículo 24 de la ley 4/1994, de 26 de julio, de salud de la región de murcia, referente a los instrumentos para el cumplimiento de los fines del servicio murciano de salud, en cualquier caso se establecerán las disposiciones necesarias para garantizar:",
+      "opciones": {
+        "A": "La máxima igualdad y los principios de justicia y equidad.",
+        "B": "La máxima transparencia y los principios de equidad.",
+        "C": "La máxima equidad y los principios de transparencia y justicia.",
+        "D": "La máxima igualdad y los principios de publicidad y justicia."
+      },
+      "correcta": "A"
+    },
+    {
+      "id": 41,
+      "texto": "¿Qué unidad o servicio no forma parte de la estructura orgánica y funcional de la secretaría general técnica del servicio murciano de salud (decreto 148/2002, por el que se establece la estructura y funciones de los órganos de participación, administración y gestión del servicio murciano de salud, de 27 de diciembre)?",
+      "opciones": {
+        "A": "Unidad Jurídica de Estudios e Informes.",
+        "B": "Servicio de Seguridad e Higiene.",
+        "C": "Servicio de Obras y Contratación.",
+        "D": "Servicio Juridico."
+      },
+      "correcta": "B"
+    },
+    {
+      "id": 42,
+      "texto": "El Servicio Murciano de Salud tendrá como fines:",
+      "opciones": {
+        "A": "La ejecución de las competencias en la gestión de los servicios sanitarios que le atribuya la Administración de la Comunidad Autónoma.",
+        "B": "La ejecución de las competencias de administración de los servicios sanitarios de la Comunidad Autónoma.",
+        "C": "La ejecución de las competencias de administración, gestión de los servicios, prestaciones y programas sanitarios que le atribuya la Administración de la Comunidad Autónoma.",
+        "D": "La atención sanitaria a los usuarios y la coordinación de todos sus recursos."
+      },
+      "correcta": "C"
+    },
+    {
+      "id": 43,
+      "texto": "No forma parte de los órganos directivos del Servicio Murciano de Salud:",
+      "opciones": {
+        "A": "El Director Gerente y La Dirección general de Asistencia Sanitaria.",
+        "B": "La Dirección General de Recursos Humanos.",
+        "C": "La Secretaría General Técnica.",
+        "D": "La Consejería de Salud."
+      },
+      "correcta": "D"
+    },
+    {
+      "id": 44,
+      "texto": "El Servicio Murciano de Salud se estructura en los siguientes órganos centrales:",
+      "opciones": {
+        "A": "El Consejo de Administración.",
+        "B": "El director gerente.",
+        "C": "El Consejo de Administración, el director gerente y el Consejo de participación ciudadana.",
+        "D": "A y B son correctas."
+      },
+      "correcta": "D"
+    },
+    {
+      "id": 45,
+      "texto": "Según la Ley 4/94 de Salud de la Región de Murcia en relación con la ordenación sanitaria, el Gerente de Área:",
+      "opciones": {
+        "A": "Se encargará de la ejecución de las acciones en los dispositivos de Asistencia Sanitaria del Servicio Murciano de Salud, según las directrices del Consejo de Salud de Área.",
+        "B": "Se encargará de la ejecución de las acciones que le sean encomendadas por el Gerente del Servicio Murciano de Salud.",
+        "C": "Se encargará de la ejecución de las acciones en los dispositivos de asistencia sanitaria del Servicio Murciano de Salud, emanadas de las directrices establecidas por el Consejo de Dirección de Área y de las propias del Plan de Salud del Área.",
+        "D": "Se encargará de la ejecución de las acciones en los dispositivos de asistencia sanitaria del Servicio Murciano de Salud, emanadas de las directrices del Plan de Salud del Área."
+      },
+      "correcta": "C"
+    },
+    {
+      "id": 46,
+      "texto": "La ley 55/2003 establece que el tiempo de trabajo correspondiente a la jornada ordinaria del personal estatutario no excederá de: (anulada)",
+      "opciones": {
+        "A": "8 horas ininterrumpidas y hasta 24 h. para determinados servicios o unidades sanitarias, con carácter excepcional y cuando así lo aconsejen razones organizativas o asistenciales.",
+        "B": "12 horas ininterrumpidas y hasta 24 h. para determinados servicios o unidades sanitarias, con carácter excepcional y cuando así lo aconsejen razones organizativas o asistenciales.",
+        "C": "10 horas.",
+        "D": "8 horas."
+      },
+      "correcta": "B"
+    },
+    {
+      "id": 47,
+      "texto": "De acuerdo al artículo 73 de la ley 55/2003, las faltas que cometa el personal estatutario serán corregidas con algunas de las siguientes sanciones:",
+      "opciones": {
+        "A": "Separación del servicio, traslado forzoso con cambio de localidad, suspensión de funciones, traslado forzoso a otra institución o centro sin cambio de localidad, apercibimiento y reducción proporcional de retribuciones.",
+        "B": "Separación del servicio, traslado forzoso con cambio de localidad, suspensión de funciones, traslado forzoso a otra institución o centro sin cambio de localidad y apercibimiento.",
+        "C": "Separación del servicio, traslado forzoso con cambio de localidad, suspensión de funciones, apercibimiento y reducción proporcional de retribuciones.",
+        "D": "Separación del servicio, traslado forzoso con cambio de localidad, suspensión de funciones, traslado forzoso a otra institución o centro sin cambio de localidad y reducción proporcional de retribuciones."
+      },
+      "correcta": "B"
+    },
+    {
+      "id": 48,
+      "texto": "El personal estatutario que no se incorpore al destino obtenido en un procedimiento de movilidad voluntaria dentro de los plazos establecidos o de las prórrogas de los mismos que legal o reglamentariamente procedan, quedará en situación de:",
+      "opciones": {
+        "A": "Servicio activo pendiente de adjudicación de destino.",
+        "B": "Excedencia voluntaria por interés particular.",
+        "C": "Excedencia por servicios en el sector público.",
+        "D": "Servicios especiales."
+      },
+      "correcta": "B"
+    },
+    {
+      "id": 49,
+      "texto": "El capítulo V del estatuto marco del personal estatutario de los servicios de salud establece como causa o causas de la extinción de la condición de personal estatutario fijo:",
+      "opciones": {
+        "A": "La sanción firme de suspensión de funciones.",
+        "B": "La jubilación.",
+        "C": "Excedencia voluntaria.",
+        "D": "Todas las respuestas son correctas."
+      },
+      "correcta": "B"
+    },
+    {
+      "id": 50,
+      "texto": "El periodo de vacación anual al que tienen derecho el personal estatutario podrá ser sustituido:",
+      "opciones": {
+        "A": "Por compensación económica, siempre que sea a solicitud personal.",
+        "B": "Por compensación económica, sólo en el caso de finalización de la prestación de servicios.",
+        "C": "Por una compensación económica equivalente al duplo de las retribuciones complementarias del puesto desempeñado.",
+        "D": "En ningún caso se podrán compensar económicamente."
+      },
+      "correcta": "B"
+    },
+    {
+      "id": 51,
+      "texto": "Durante la tramitación de un expediente disciplinario a un celador, por falta grave cometida, se acuerda la suspensión provisional de funciones. En relación a esta situación, ¿qué afirmación es correcta?",
+      "opciones": {
+        "A": "Por falta grave no se puede acordar suspensión provisional de funciones.",
+        "B": "El personal estatutario en esta situación no percibirá retribuciones mientras dure la suspensión, siempre que no exceda de seis meses.",
+        "C": "Percibirá las retribuciones básicas mientras dure la suspensión provisional.",
+        "D": "Percibirá todas sus retribuciones a excepción de los servicios extraordinarios."
+      },
+      "correcta": "C"
+    },
+    {
+      "id": 52,
+      "texto": "De acuerdo Ley 55/2003 de 16 de diciembre, del Estatuto Marco, ¿cuál de estos derechos del personal estatutario es un derecho colectivo?:",
+      "opciones": {
+        "A": "Disponer de servicios de prevención y de órganos representativos en materia de seguridad laboral.",
+        "B": "Formación continuada.",
+        "C": "A la movilidad voluntaria, promoción interna y desarrollo profesional.",
+        "D": "Recibir asistencia y protección de las Administraciones públicas en el ejercicio de su profesión o en el desempeño de sus funciones."
+      },
+      "correcta": "A"
+    },
+    {
+      "id": 53,
+      "texto": "¿Quiénes pueden recuperar su condición de personal estatutario tras perderla?:",
+      "opciones": {
+        "A": "El personal estatutario fijo.",
+        "B": "El personal estatutario fijo y el personal estatutario interino, pero no el personal eventual.",
+        "C": "El personal estatutario y el personal laboral.",
+        "D": "Todo el personal estatutario."
+      },
+      "correcta": "A"
+    },
+    {
+      "id": 54,
+      "texto": "Cuando de un procedimiento de movilidad se derive cambio en el servicio de salud de destino, el plazo de toma de posesión del personal estatutario será de:",
+      "opciones": {
+        "A": "Un mes a contar desde el día del cese en el destino anterior.",
+        "B": "Un mes a contar desde la fecha de publicación.",
+        "C": "Tres días a contar desde la fecha de publicación.",
+        "D": "Tres días a contar desde la fecha del cese en el destino anterior."
+      },
+      "correcta": "A"
+    },
+    {
+      "id": 55,
+      "texto": "La jubilación del personal estatutario, tal y como establece el artículo 26 del Estatuto Marco, será:",
+      "opciones": {
+        "A": "Forzosa en todo caso.",
+        "B": "Forzosa o voluntaria.",
+        "C": "Voluntaria sólo para determinadas categorías.",
+        "D": "Voluntaria en todo caso."
+      },
+      "correcta": "B"
+    },
+    {
+      "id": 56,
+      "texto": "¿Cuál de las siguientes opciones no es un deber del personal estatutario recogido en el Estatuto Marco?:",
+      "opciones": {
+        "A": "El encuadramiento en el Régimen General de la Seguridad Social.",
+        "B": "Mantener la debida reserva y confidencialidad.",
+        "C": "Participar en la fijación y consecución de los objetivos.",
+        "D": "Informar debidamente, de acuerdo con las normas y procedimientos aplicables en cada caso, y dentro del ámbito de sus competencias, a los usuarios y pacientes sobre su proceso asistencial y sobre los servicios disponibles."
+      },
+      "correcta": "A"
+    },
+    {
+      "id": 57,
+      "texto": "La ley 5/2001, en su artículo 44, establece los tramos de la carrera profesional, que son: (anulada)",
+      "opciones": {
+        "A": "A, B, C, D y E.",
+        "B": "Máximo 6 para las categorías del grupo A.",
+        "C": "Máximo 5 para las categorías de los grupos B, C y D.",
+        "D": "Máximo 4 para la categoría del grupo E."
+      },
+      "correcta": "B"
+    },
+    {
+      "id": 58,
+      "texto": "Referente al permiso por asuntos propios, sin ninguna retribución, ¿qué afirmación es correcta?:",
+      "opciones": {
+        "A": "El personal estatutario podrá disponer de seis días al año.",
+        "B": "Su duración acumulada no podrá exceder en ningún caso de tres meses al año.",
+        "C": "El personal estatutario podrá disponer de seis días al año y la concesión de este permiso estará subordinada a las necesidades del servicio.",
+        "D": "Su duración será de dieciséis semanas."
+      },
+      "correcta": "B"
+    },
+    {
+      "id": 59,
+      "texto": "La plaza que tenga atribuido complemento de destino de un nivel superior al base de cada grupo se proveerá: (anulada)",
+      "opciones": {
+        "A": "Por libre designación.",
+        "B": "Por concurso de traslados.",
+        "C": "Por concurso de méritos.",
+        "D": "Podrá elegir entre los tres tipos la administración, siempre que se produzca una negociación previa con las fuerzas sindicales en la correspondiente Mesa Sectorial."
+      },
+      "correcta": "C"
+    },
+    {
+      "id": 60,
+      "texto": "De acuerdo a la ley 5/2001, de personal estatutario del servicio murciano de salud, ¿qué afirmación es correcta?:",
+      "opciones": {
+        "A": "La carrera administrativa se instrumenta a través de la posibilidad de acceder a otras plazas mediante concurso de traslados, concurso de méritos y libre designación, y por la promoción interna a otras categorías del mismo grupo o de grupos superiores.",
+        "B": "La carrera profesional se articulará mediante el ascenso de tramos dentro de la misma categoría, sin perjuicio de otras formas de promoción profesional que reglamentariamente se determinen.",
+        "C": "La carrera administrativa y profesional del personal estatutario se desarrollará de acuerdo con los principios de igualdad, mérito y capacidad, y con la adecuada publicidad.",
+        "D": "Todas son correctas."
+      },
+      "correcta": "D"
+    },
+    {
+      "id": 61,
+      "texto": "El período de permanencia en la situación de excedencia por cuidado de familiares:",
+      "opciones": {
+        "A": "Será computable a efectos de trienios y derechos pasivos.",
+        "B": "No podrá superar un año.",
+        "C": "No podrá superar dos años.",
+        "D": "Da derecho a la percepción de sueldo base y trienios, durante el primer año."
+      },
+      "correcta": "A"
+    },
+    {
+      "id": 62,
+      "texto": "Según el art. 57.3 de La Ley 5/2001 de 5 de diciembre, de Personal Estatutario del Servicio Murciano de Salud:",
+      "opciones": {
+        "A": "Las madres, por lactancia de un hijo menor de doce meses, tendrán derecho a una hora de ausencia del trabajo, que podrá dividir en varias fracciones.",
+        "B": "Las madres, por lactancia de un hijo menor de doce meses, tendrán derecho a una hora de ausencia del trabajo que deberá disfrutar de manera ininterrumpida.",
+        "C": "Las madres, por lactancia de un hijo menor de doce meses, tendrán derecho a una hora de ausencia del trabajo, que podrá dividir en tres fracciones.",
+        "D": "Las madres, por lactancia de un hijo menor de nueve meses, tendrán derecho a una hora de ausencia del trabajo, que podrá dividir en dos fracciones."
+      },
+      "correcta": "D"
+    },
+    {
+      "id": 63,
+      "texto": "La convocatoria de un concurso de traslados del personal estatutario tiene una de estas características:",
+      "opciones": {
+        "A": "No es necesaria su publicación en el BORM, siendo suficiente su difusión a través de los tablones de anuncios de los distintos centros.",
+        "B": "Debe incluir la puntuación mínima para la adjudicación de las plazas convocadas.",
+        "C": "Debe incluir las retribuciones de las plazas convocadas.",
+        "D": "Ninguna de las respuestas anteriores es correcta."
+      },
+      "correcta": "D"
+    },
+    {
+      "id": 64,
+      "texto": "Según la Ley 5/2001, de 5 de diciembre, de Personal Estatutario del Servicio Murciano de Salud, en lo relativo a los derechos individuales contemplados en su artículo 39:",
+      "opciones": {
+        "A": "Serán de aplicación a todo el personal estatutario íntegramente.",
+        "B": "Serán aplicables sólo al personal fijo.",
+        "C": "Serán aplicables al personal fijo, y en la medida en que la naturaleza del derecho lo permita, también al personal temporal.",
+        "D": "Ninguna de las respuestas anteriores es correcta."
+      },
+      "correcta": "C"
+    },
+    {
+      "id": 65,
+      "texto": "¿Cuál de estos permisos no está contemplado para el personal estatutario?:",
+      "opciones": {
+        "A": "Para realizar funciones sindicales o de representación del personal.",
+        "B": "Por fallecimiento, accidente o enfermedad grave de un familiar dentro del tercer grado de consanguinidad o afinidad.",
+        "C": "Por deber inexcusable de carácter público y personal.",
+        "D": "Todos los permisos anteriores les son de aplicación."
+      },
+      "correcta": "B"
+    },
+    {
+      "id": 66,
+      "texto": "El paciente puede revocar libremente su consentimiento (artículo 8.5 Ley 41/2002):",
+      "opciones": {
+        "A": "Por escrito y en cualquier momento.",
+        "B": "En cualquier momento y de cualquier forma.",
+        "C": "De forma verbal y después de ser informado.",
+        "D": "Por escrito y firmando el alta."
+      },
+      "correcta": "A"
+    },
+    {
+      "id": 67,
+      "texto": "¿Se puede facilitar información asistencial a los familiares del paciente (artículo 5.1 Ley 41/2002)?:",
+      "opciones": {
+        "A": "Siempre, hasta el 2º grado de consanguinidad o afinidad.",
+        "B": "Siempre que el paciente lo permita de manera expresa o tácita.",
+        "C": "Única y exclusivamente en caso de incapacidad del paciente.",
+        "D": "Únicamente a su acompañante."
+      },
+      "correcta": "B"
+    },
+    {
+      "id": 68,
+      "texto": "¿Quién garantiza al paciente su derecho a la información asistencial (artículo 4.3 Ley 41/2002)?:",
+      "opciones": {
+        "A": "El Servicio Murciano de Salud.",
+        "B": "El Gerente.",
+        "C": "El Médico responsable.",
+        "D": "El Jefe de Servicio."
+      },
+      "correcta": "C"
+    },
+    {
+      "id": 69,
+      "texto": "Las sugerencias, quejas o reclamaciones y agradecimientos de los usuarios que se presenten directamente en el centro asistencial a que se refieren, se resolverán en un plazo máximo de:",
+      "opciones": {
+        "A": "15 días.",
+        "B": "30 días.",
+        "C": "2 meses.",
+        "D": "10 días."
+      },
+      "correcta": "B"
+    },
+    {
+      "id": 70,
+      "texto": "En relación con la información en el Sistema Nacional de Salud que regula la Ley 41/2002 reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, señale la afirmación correcta:",
+      "opciones": {
+        "A": "Los servicios públicos, dispondrán de una guía o carta de los servicios en la que se especifiquen sus derechos y obligaciones.",
+        "B": "Los servicios públicos, dispondrán en los centros de atención primaria una guía sobre los servicios en la que se especifiquen los derechos y obligaciones de los usuarios.",
+        "C": "Los servicios de salud dispondrán en los centros y servicios sanitarios de una guía o carta de los servicios en la que se especifiquen los derechos de los usuarios.",
+        "D": "Los servicios de salud dispondrán en los centros y servicios sanitarios de una guía o carta de los servicios en la que se especifiquen los derechos y obligaciones de los usuarios."
+      },
+      "correcta": "D"
+    },
+    {
+      "id": 71,
+      "texto": "El Servicio de Atención al Usuario, dependerá de:",
+      "opciones": {
+        "A": "La Supervisora de dicho Servicio.",
+        "B": "El Director Gerente.",
+        "C": "El Director Médico.",
+        "D": "El Director de Enfermería."
+      },
+      "correcta": "B"
+    },
+    {
+      "id": 72,
+      "texto": "Según la Ley 3/2009 de los Derechos y Deberes de los Usuarios del Sistema Sanitario de la Región de Murcia, el destinatario del derecho a la información asistencial es:",
+      "opciones": {
+        "A": "El ciudadano.",
+        "B": "El paciente.",
+        "C": "El Médico de atención primaria.",
+        "D": "El familiar de primer grado."
+      },
+      "correcta": "B"
+    },
+    {
+      "id": 73,
+      "texto": "Según lo previsto en la normativa vigente en materia de acceso y uso de la Historia Clínica, el celador podrá tener acceso al contenido de una historia clínica:",
+      "opciones": {
+        "A": "Cuando así se lo solicite un facultativo.",
+        "B": "Para consultar un proceso asistencial si está destinado en el servicio de archivo de HН. СС.",
+        "C": "En ningún caso.",
+        "D": "En todo caso, siempre y cuando mantenga la confidencialidad sobre la información consultada."
+      },
+      "correcta": "C"
+    },
+    {
+      "id": 74,
+      "texto": "En relación con el derecho a la intimidad de los pacientes:",
+      "opciones": {
+        "A": "Toda persona tiene derecho a que se respete el carácter confidencial de los datos referentes a su salud, si así está previsto en las normas de derechos y deberes del centro Sanitario.",
+        "B": "El derecho a la intimidad dependerá de las circunstancias sanitarias del paciente.",
+        "C": "El derecho a la intimidad solo está regulado en casos de enfermedades infecciosas o contagiosas.",
+        "D": "Toda persona tiene derecho a que se respete el carácter confidencial de los datos referentes a su salud."
+      },
+      "correcta": "D"
+    },
+    {
+      "id": 75,
+      "texto": "En un Centro Sanitario, el Servicio de Atención al Usuario atenderá:",
+      "opciones": {
+        "A": "A los familiares hasta segundo grado.",
+        "B": "Exclusivamente a los pacientes.",
+        "C": "Solo a los pacientes y sus familiares.",
+        "D": "A los pacientes, sus familiares, representantes y acompañantes."
+      },
+      "correcta": "D"
+    },
+    {
+      "id": 76,
+      "texto": "¿En el ámbito de la salud, los usuarios y pacientes en la Región de Murcia tienen derecho a recibir información veraz y suficiente en las siguientes áreas:",
+      "opciones": {
+        "A": "Información asistencial.",
+        "B": "Información epidemiológica.",
+        "C": "Información sobre planes sanitarios.",
+        "D": "Todas las respuestas anteriores son correctas."
+      },
+      "correcta": "D"
+    },
+    {
+      "id": 77,
+      "texto": "El artículo 17 de la ley 31/1995, de prevención de riesgos laborales \"equipos de trabajo y medios de protección individual\", establece que los equipos de protección individual deberán de utilizarse cuando:",
+      "opciones": {
+        "A": "En todo caso siempre y cuando los facilite el empresario.",
+        "B": "En todo caso siempre y cuando los facilite el empresario, corriendo el coste de estos a su cargo.",
+        "C": "Se anteponen siempre las medidas de protección colectiva.",
+        "D": "Los riesgos no se puedan evitar."
+      },
+      "correcta": "D"
+    },
+    {
+      "id": 78,
+      "texto": "De acuerdo con lo establecido en el artículo 15 del r.d. 39/1997 \"reglamento de los servicios de prevención\", de ¿cuántas especialidades o disciplinas preventivas de las previstas en el artículo 34 del citado r.d., habrá de contar el servicio de prevención?:",
+      "opciones": {
+        "A": "Cuatro.",
+        "B": "Dos como mínimo.",
+        "C": "Dos.",
+        "D": "Una como mínimo, pudiendo concertar el resto con uno o más servicios de prevención ajenos."
+      },
+      "correcta": "B"
+    },
+    {
+      "id": 79,
+      "texto": "Los trabajadores, con arreglo a su formación y siguiendo las instrucciones del empresario, tendrán el deber de (artículo 29 ley 31/1995, de prevención de riesgos laborales):",
+      "opciones": {
+        "A": "Utilizar correctamente, los medios y equipos de protección facilitados por el empresario.",
+        "B": "Usar adecuadamente, de acuerdo con su naturaleza y los riesgos imprevisibles, las máquinas, aparatos, herramientas y, en general, cualesquiera otros medios con los que desarrollen su actividad.",
+        "C": "Informar de inmediato a la autoridad laboral, acerca de cualquier situación que, a su juicio, entrañe, por motivos razonables, un riesgo para la seguridad y salud de los trabajadores.",
+        "D": "Todas las anteriores son correctas."
+      },
+      "correcta": "A"
+    },
+    {
+      "id": 80,
+      "texto": "La secuencia correcta a la hora de levantar un objeto es:",
+      "opciones": {
+        "A": "Conservar la espalda recta, póngase en cuclillas cerca del objeto, coja el objeto firmemente, sostenga la carga cerca del cuerpo, levántese empujando con los fuertes músculos de las piernas.",
+        "B": "Póngase en cuclillas cerca del objeto, conserve la espalda recta, coja el objeto firmemente, sostenga la carga cerca de su cuerpo, levántese empujando con los fuertes músculos de las piernas.",
+        "C": "Póngase en cuclillas cerca del objeto, coja el objeto firmemente, sostenga la carga cerca de su cuerpo, levántese empujando con los fuertes músculos de las piernas.",
+        "D": "Coja el objeto firmemente, póngase los pies a una distancia de 30 cm, conserve la espalda recta, sostenga la carga cerca de su cuerpo, levántese empujando con los músculos de las piernas."
+      },
+      "correcta": "B"
+    },
+    {
+      "id": 81,
+      "texto": "En las reuniones del Comité de Seguridad y Salud, pueden participar con voz, pero sin voto:",
+      "opciones": {
+        "A": "El empresario y sus representantes.",
+        "B": "Los Delegados de Prevención, si no son Delegados Sindicales.",
+        "C": "Los Delegados Sindicales, si no son Delegados de Prevención.",
+        "D": "Todos tienen voz y voto."
+      },
+      "correcta": "C"
+    },
+    {
+      "id": 82,
+      "texto": "El confort térmico es un riesgo que se incluye dentro de la:",
+      "opciones": {
+        "A": "Higiene industrial.",
+        "B": "Seguridad.",
+        "C": "Ergonomía.",
+        "D": "Psicosociología."
+      },
+      "correcta": "C"
+    },
+    {
+      "id": 83,
+      "texto": "Según el Real Decreto 487/1997, 14 de abril, sobre disposiciones mínimas de seguridad relativas a la manipulación de cargas, ¿cuál de estas medidas no es obligatoria para el empresario?:",
+      "opciones": {
+        "A": "Formación e información.",
+        "B": "Vigilancia de la salud.",
+        "C": "Evitar la manipulación de cargas en la medida de lo posible.",
+        "D": "Todas las medidas anteriores son obligatorias."
+      },
+      "correcta": "D"
+    },
+    {
+      "id": 84,
+      "texto": "Las empresas que contraten o subcontraten con otras la realización de obras o servicios correspondientes a la propia actividad de aquellas, y que se desarrollen en sus propios centros de trabajo:",
+      "opciones": {
+        "A": "Deberán advertir a contratistas y subcontratistas del cumplimiento de la normativa de prevención de riesgos laborales, siendo estos últimos los responsables exclusivos de los posibles incumplimientos.",
+        "B": "Deberán vigilar por el cumplimiento por los contratistas y subcontratistas de la normativa de prevención de riesgos laborales.",
+        "C": "Asumirán los costes derivados del cumplimiento por los contratistas y subcontratistas de la normativa de prevención de riesgos laborales, y los repercutirán a los mismos al finalizar el contrato.",
+        "D": "No asumen responsabilidad alguna y tan solo informarán a la autoridad laboral de dicha circunstancia a los efectos, por parte de esta, de la vigilancia del cumplimiento de la normativa de prevención de riesgos laborales por parte de contratistas y subcontratistas."
+      },
+      "correcta": "B"
+    },
+    {
+      "id": 85,
+      "texto": "En las reuniones del Comité de Seguridad y Salud, pueden participar con voz pero sin voto:",
+      "opciones": {
+        "A": "El empresario y sus representantes.",
+        "B": "Los Delegados de Prevención, si no son Delegados Sindicales.",
+        "C": "Los Delegados Sindicales, si no son Delegados de Prevención.",
+        "D": "Todos tienen voz y voto."
+      },
+      "correcta": "C"
+    },
+    {
+      "id": 86,
+      "texto": "El artículo 23 de la Ley 31/95, de 8 de noviembre sobre prevención de riesgos laborales, establece de manera taxativa la documentación que el empresario debe elaborar y conservar a disposición de la autoridad laboral. ¿Cuál de las respuestas no se encuentra entre esa documentación?:",
+      "opciones": {
+        "A": "Plan de ordenación de recursos humanos.",
+        "B": "Evaluación de los riesgos para la seguridad y salud.",
+        "C": "Planificación de la actividad preventiva.",
+        "D": "Todas están incluidas en dicho artículo."
+      },
+      "correcta": "A"
+    },
+    {
+      "id": 87,
+      "texto": "La integración de la actividad preventiva, está expresamente contemplada en el artículo 1 de:",
+      "opciones": {
+        "A": "Ley 31/95 de 8 de noviembre, sobre prevención de riesgos laborales.",
+        "B": "Real Decreto 39/1997, de 17 de enero, por el que se aprueba el Reglamento de los Servicios de Prevención.",
+        "C": "Real Decreto Legislativo 2/2015, de 23 de octubre, por el que se aprueba el Texto refundido del Estatuto de los trabajadores.",
+        "D": "Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el Estatuto Básico del empleado público."
+      },
+      "correcta": "B"
+    },
+    {
+      "id": 88,
+      "texto": "El Servicio de Prevención, según el artículo 31 de la Ley 31/95 de 8 de noviembre, sobre prevención de riesgos laborales, asesora:",
+      "opciones": {
+        "A": "Al empresario, a los trabajadores y a sus representantes y a los órganos de representación especializados.",
+        "B": "Solo al empresario, el cual, a su vez, informará a trabajadores y representantes de éstos.",
+        "C": "Solo a los trabajadores y sus representantes.",
+        "D": "Solo al Comité de Seguridad y Salud, como órgano que integra tanto al empresario como a los representantes de los trabajadores."
+      },
+      "correcta": "A"
+    },
+    {
+      "id": 89,
+      "texto": "Adaptar la altura de un mostrador para un celador de información, es una medida preventiva relacionada con la:",
+      "opciones": {
+        "A": "Psicosociología.",
+        "B": "Ergonomía.",
+        "C": "Seguridad.",
+        "D": "Todas las respuestas anteriores son correctas."
+      },
+      "correcta": "B"
+    },
+    {
+      "id": 90,
+      "texto": "¿Cómo denomina el artículo 24 de la Ley 31/95 de 8 de noviembre, sobre prevención de riesgos laborales, la situación que se genera cuando, en un mismo centro de trabajo, desarrollen actividades trabajadores de dos o más empresas, y éstas deban cooperar en la aplicación de la normativa sobre prevención de riesgos laborales?:",
+      "opciones": {
+        "A": "Cooperación en materia de prevención de riesgos laborales.",
+        "B": "Coordinación para la vigilancia de la salud.",
+        "C": "Comité de Seguridad y Salud laboral.",
+        "D": "Coordinación de actividades empresariales."
+      },
+      "correcta": "D"
+    },
+    {
+      "id": 91,
+      "texto": "¿Cómo define el artículo 35 de la Ley 31/95 de 8 de noviembre, sobre prevención de riesgos laborales, a los delegados de prevención?:",
+      "opciones": {
+        "A": "Son los representantes de la empresa y de los trabajadores con funciones específicas en materia de prevención de riesgos laborales.",
+        "B": "Son los representantes de los trabajadores con funciones específicas en materia de prevención de riesgos en el trabajo.",
+        "C": "Lo son solo los miembros del Servicio de Prevención.",
+        "D": "Lo son todos los miembros del Comité de Seguridad y Salud laboral."
+      },
+      "correcta": "B"
+    },
+    {
+      "id": 92,
+      "texto": "Las empresas que cuenten con varios centros de trabajo dotado de Comité de Seguridad y Salud, crearán un Comité Intercentros:",
+      "opciones": {
+        "A": "En todo caso.",
+        "B": "Solo si se encuentran en distintas Comunidades Autónomas.",
+        "C": "Cuando asi lo determine el empresario.",
+        "D": "Cuando así lo acuerden con sus trabajadores."
+      },
+      "correcta": "D"
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+    
