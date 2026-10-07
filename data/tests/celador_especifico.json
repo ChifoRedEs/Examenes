@@ -1,0 +1,279 @@
+{
+  "categoria": "Celador SMS",
+  "titulo": "Cuestionario Oficial Oposiciones Celador SMS (Test Específico)",
+  "preguntas": [
+    {
+      "id": 1,
+      "texto": "La Ley Orgánica 15/99, de 13 de diciembre, de Protección de Datos de Carácter Personal (LOPDCP), establece respecto al derecho de información en la recogida de datos:",
+      "opciones": {
+        "A": "Los interesados a los que se soliciten datos personales, deberán ser previamente informados de modo expreso, preciso e inequívoco del tratamiento de sus datos.",
+        "B": "El derecho a la información del interesado no es uno de los principios fundamentales sobre los que se asienta la LOPDCP.",
+        "C": "La información al interesado se dará solo cuando él mismo la solicite.",
+        "D": "Los interesados no sabrán quién es el responsable del tratamiento de sus datos."
+      },
+      "correcta": "A"
+    },
+    {
+      "id": 2,
+      "texto": "Según la Ley Orgánica 15/99, de 13 de diciembre, de Protección de Datos de Carácter Personal, se entiende por \"afectado o interesado\":",
+      "opciones": {
+        "A": "Persona física titular de los datos que sea objeto del tratamiento de datos.",
+        "B": "Persona fisica o jurídica titular de los datos que sea objeto del tratamiento de datos.",
+        "C": "Persona física titular de los datos personales.",
+        "D": "Persona física o jurídica titular de los datos personales."
+      },
+      "correcta": "A"
+    },
+    {
+      "id": 3,
+      "texto": "La Ley Orgánica 15/99, de 13 de diciembre, de Protección de Datos de Carácter Personal, manifiesta sobre los datos personales especialmente protegidos (señale la incorrecta):",
+      "opciones": {
+        "A": "Los datos de carácter personal que revelen la ideología, afiliación sindical, religión y creencias, en ningún caso podrán ser objeto de tratamiento.",
+        "B": "Los datos que hagan referencia al origen racial, solo podrán ser tratados cuando, por razones de interés general, así lo disponga una ley o el afectado consienta expresamente.",
+        "C": "Los datos que hagan referencia a la salud, solo podrán ser tratados cuando, por razones de interés general, así lo disponga una ley o el afectado consienta expresamente.",
+        "D": "Los datos que hagan referencia a la vida sexual, solo podrán ser tratados cuando, por razones de interés general, así lo disponga una ley o el afectado consienta expresamente."
+      },
+      "correcta": "A"
+    },
+    {
+      "id": 4,
+      "texto": "Según la ley orgánica 15/99 de 13 de diciembre de protección de datos de carácter personal, ¿quién se encarga de adoptar las medidas necesarias que garanticen la seguridad de los datos de carácter personal?",
+      "opciones": {
+        "A": "La persona autorizada en cada organización para el desempeño de esta tarea.",
+        "B": "El superior jerárquico de la persona que trate los datos.",
+        "C": "El órgano superior de la organización que se trate.",
+        "D": "El responsable del fichero, y en su caso, el encargado del tratamiento de los datos."
+      },
+      "correcta": "D"
+    },
+    {
+      "id": 5,
+      "texto": "¿Qué dispone la Ley 15/1999 de Protección de Datos de Carácter Personal, en relación a los ficheros creados con la finalidad exclusiva de almacenar datos de carácter personal que revelen la ideología, afiliación sindical, religión, creencias, origen racial o étnico, o vida sexual?",
+      "opciones": {
+        "A": "Su regulación mediante ley orgánica.",
+        "B": "La necesidad de su regulación reglamentaria.",
+        "C": "El sistema de archivo en cuanto a su especial seguridad y reserva.",
+        "D": "Su prohibición."
+      },
+      "correcta": "D"
+    },
+    {
+      "id": 6,
+      "texto": "¿A qué tipos de datos no se refiere la Ley 15/1999, de Protección de Datos de Carácter Personal, cuando dice que solo podrán ser objeto de tratamiento los datos con el consentimiento expreso y por escrito del afectado?",
+      "opciones": {
+        "A": "Los que revelen su ideología.",
+        "B": "Los que revelen su afiliación sindical.",
+        "C": "Los que revelen sus creencias.",
+        "D": "Se refiere a todos los anteriores."
+      },
+      "correcta": "D"
+    },
+    {
+      "id": 7,
+      "texto": "¿A quién le corresponde adoptar las medidas de índole técnica y organizativas necesarias que garanticen la seguridad de los datos de carácter personal y eviten su alteración, en un establecimiento sanitario?",
+      "opciones": {
+        "A": "Al responsable del fichero y, en su caso, el encargado del tratamiento.",
+        "B": "A la administración correspondiente según el ámbito de actuación.",
+        "C": "Al director del establecimiento.",
+        "D": "Al máximo responsable de informática del centro de trabajo, o persona en quien éste delegue de manera expresa, con el visto bueno de la Subdirección General de Sistemas de Información."
+      },
+      "correcta": "A"
+    },
+    {
+      "id": 8,
+      "texto": "¿Cómo se establecerán los requisitos y condiciones que deban reunir los ficheros y las personas que intervengan en el tratamiento de los datos especialmente protegidos (artículo 8, Ley 15/1999, de Protección de Datos de Carácter Personal)?",
+      "opciones": {
+        "A": "Por ley orgánica los de carácter racial.",
+        "B": "Por ley ordinaria los de carácter sindical.",
+        "C": "Reglamentariamente.",
+        "D": "La forma se establecerá según el tipo de dato (racial, sindical, creencias, ideología)."
+      },
+      "correcta": "C"
+    },
+    {
+      "id": 9,
+      "texto": "¿Quién determina el horario de funcionamiento más adecuado para cada servicio o unidad del hospital \"reglamento sobre estructura, organización y funcionamiento de los hospitales\"?",
+      "opciones": {
+        "A": "Director Gerente a propuesta de la Junta Técnica-Asistencial.",
+        "B": "Comisión de Dirección a propuesta de la Junta Técnica-Asistencial.",
+        "C": "Director Gerente a propuesta del Director Médico con informe de la Junta Técnico Asistencial.",
+        "D": "Director Médico."
+      },
+      "correcta": "A"
+    },
+    {
+      "id": 10,
+      "texto": "¿Cómo se define en el artículo 17 del RD 521/1987 \"Reglamento sobre estructura, organización y funcionamiento de los hospitales\" la comisión de dirección?",
+      "opciones": {
+        "A": "Órgano colegiado de Dirección del hospital.",
+        "B": "Órgano de participación comunitaria.",
+        "C": "Órgano colegiado de participación comunitaria.",
+        "D": "Este artículo no define la Comisión de Dirección."
+      },
+      "correcta": "A"
+    },
+    {
+      "id": 11,
+      "texto": "El art. 22 del Real Decreto 521/1987, de 15 de abril, por el que se aprueba el Reglamento sobre Estructura, Organización y Funcionamiento de los Hospitales, establece que deberán constituir-se, como mínimo, las siguientes Comisiones Clínicas:",
+      "opciones": {
+        "A": "Infección Hospitalaria.",
+        "B": "Historias Clínicas.",
+        "C": "Farmacia.",
+        "D": "Todas las respuestas anteriores son correctas."
+      },
+      "correcta": "D"
+    },
+    {
+      "id": 12,
+      "texto": "Cuando existan varios hospitales en un Área de Salud:",
+      "opciones": {
+        "A": "Se establecerá de una jerarquía entre centros, con el objeto de complementar los servicios.",
+        "B": "Se asignarán las distintas especialidades por centro, a fin de evitar duplicidades.",
+        "C": "Se establecerán fórmulas de coordinación entre ellos.",
+        "D": "Se gestionarán de forma totalmente independiente."
+      },
+      "correcta": "C"
+    },
+    {
+      "id": 13,
+      "texto": "Las guardias médicas son organizadas según el artículo 30 del RD 521/1987 \"Reglamento sobre estructura, organización y funcionamiento de los hospitales\" por:",
+      "opciones": {
+        "A": "Director Gerente a propuesta del Director Médico.",
+        "B": "Director Gerente a propuesta del Director Médico con informe de la Junta Técnico Asistencial.",
+        "C": "Director Médico.",
+        "D": "Ninguna de las anteriores es correcta."
+      },
+      "correcta": "A"
+    },
+    {
+      "id": 14,
+      "texto": "¿Con qué periodicidad se debe reunir la comisión central de garantía de la calidad?",
+      "opciones": {
+        "A": "Un mínimo de 6 veces al año.",
+        "B": "Un mínimo de 4 veces al año.",
+        "C": "Semanalmente.",
+        "D": "Mensualmente."
+      },
+      "correcta": "A"
+    },
+    {
+      "id": 15,
+      "texto": "Según el Real Decreto 521/1987, de 15 de abril, por el que se aprueba el Reglamento sobre Estructura, Organización y Funcionamiento de los Hospitales, ¿quiénes forman parte de la Junta Técnico-Asistencial?:",
+      "opciones": {
+        "A": "El Director Gerente, que será su presidente.",
+        "B": "El Director de Gestión y Servicios Generales.",
+        "C": "El Director Médico.",
+        "D": "Todas las respuestas anteriores son correctas."
+      },
+      "correcta": "D"
+    },
+    {
+      "id": 16,
+      "texto": "¿Cuál de estas funciones no corresponde al Gerente, según Real Decreto 521/1987, de 15 de abril, por el que se aprueba el Reglamento sobre Estructura, Organización y Funcionamiento de los Hospitales?:",
+      "opciones": {
+        "A": "La representación del hospital.",
+        "B": "Presentar la memoria del hospital.",
+        "C": "La adopción de medidas en casos de crisis y emergencias.",
+        "D": "La dirección, coordinación y supervisión de los servicios médicos."
+      },
+      "correcta": "D"
+    },
+    {
+      "id": 17,
+      "texto": "Están adscritas a la Dirección de Gestión y Servicios Generales las siguientes áreas de actividad:",
+      "opciones": {
+        "A": "Suministros.",
+        "B": "Hostelería.",
+        "C": "Aquellas no asistenciales que le delegue el Gerente.",
+        "D": "Todas son funciones de la Dirección de Gestión."
+      },
+      "correcta": "D"
+    },
+    {
+      "id": 18,
+      "texto": "Según el Real Decreto 521/1987, de 15 de abril, por el que se aprueba el Reglamento sobre Estructura, Organización y Funcionamiento de los Hospitales, la Comisión de Dirección, con carácter ordinario, se reunirá:",
+      "opciones": {
+        "A": "Quincenalmente.",
+        "B": "Semanalmente.",
+        "C": "Mensualmente.",
+        "D": "No hay plazo legal alguno establecido."
+      },
+      "correcta": "B"
+    },
+    {
+      "id": 19,
+      "texto": "¿Cuál será su actuación ante la siguiente situación estando como celador en turno de noche? \"Se le presenta un jefe de servicio de una especialidad médica a las 22:30 horas y le dice que aun sabiendo que normalmente cierra la puerta de acceso al mortuorio a las 00:30 horas, que esta noche no la cierre, que él estará allí y la cerrará\":",
+      "opciones": {
+        "A": "Al ser una situación ocasional y tratarse de un jefe de servicio, accede a su petición.",
+        "B": "Comenta la situación con su jefe inmediato y acata las instrucciones de este.",
+        "C": "Le pide que firme un papel para que se responsabilice de la situación.",
+        "D": "Le remite al personal de seguridad, ya que esta no es su función."
+      },
+      "correcta": "B"
+    },
+    {
+      "id": 20,
+      "texto": "El lavado quirúrgico y el uso de guantes forman parte de:",
+      "opciones": {
+        "A": "Una técnica higiénica.",
+        "B": "Una técnica aséptica.",
+        "C": "La técnica de Kocher o Pean.",
+        "D": "Todas son correctas."
+      },
+      "correcta": "B"
+    },
+    {
+      "id": 21,
+      "texto": "Como se indica en el artículo 10 del decreto 53/1989, \"reglamento general de funcionamiento de los equipos de atención primaria de la comunidad autónoma de murcia\", el equipo de atención primaria elaborará programas de salud adecuados para su comunidad en función:",
+      "opciones": {
+        "A": "Objetivos comunes para todos sus miembros.",
+        "B": "Los problemas prioritarios del Área de Salud.",
+        "C": "Nivel de salud existente en la zona.",
+        "D": "Ninguna es correcta."
+      },
+      "correcta": "C"
+    },
+    {
+      "id": 22,
+      "texto": "Como se indica en el artículo 5 decreto 53/1989 \"reglamento general de funcionamiento de los equipos de atención primaria de la comunidad autónoma de murcia\", las consultas podrán ser (señale la incorrecta):",
+      "opciones": {
+        "A": "Ambulatoria.",
+        "B": "A demanda.",
+        "C": "Domiciliaria.",
+        "D": "De urgencia."
+      },
+      "correcta": "C"
+    },
+    {
+      "id": 23,
+      "texto": "De las siguientes tareas específicas que se indican en el artículo 20 del decreto 53/1989 \"reglamento general de funcionamiento de los equipos de atención primaria de la comunidad autónoma de murcia\", no corresponde al personal de enfermería:",
+      "opciones": {
+        "A": "Supervisar la evolución terapéutica del paciente con tratamiento prolongado.",
+        "B": "Ejecución y evaluación de las inmunizaciones establecidas.",
+        "C": "Realizar inspecciones y controles sanitarios en el medio laboral, escolar, viviendas y locales públicos.",
+        "D": "Colaborar en las actividades de formación e investigación del centro."
+      },
+      "correcta": "C"
+    },
+    {
+      "id": 24,
+      "texto": "No es una unidad de apoyo a los equipos de atención primaria a tenor del artículo 4 del decreto 53/1989 \"reglamento general de funcionamiento de los equipos de atención primaria de la comunidad autónoma de murcia\":",
+      "opciones": {
+        "A": "Unidad de Salud bucodental.",
+        "B": "Matronas.",
+        "C": "Pediatras.",
+        "D": "Fisioterapeutas."
+      },
+      "correcta": "C"
+    },
+    {
+      "id": 25,
+      "texto": "Los equipos de atención primaria podrán prestar atención directa a las personas mediante consulta:",
+      "opciones": {
+        "A": "A demanda cuando el paciente acude al Centro para ser atendido sin citación previa.",
+        "B": "Domiciliaria, cuando alguno de los miembros del equipo se desplaza hasta el domicilio de la persona que demande asistencia ante la imposibilidad de que ésta acuda al Centro.",
+        "C": "De urgencia, realizada ante una situación crítica para la salud de la persona, bien en el propio centro o bien con carácter domiciliario.",
+        "D": "Las tres respuestas anteriores son correctas."
+      },
+      "correcta": "D"
+    },
