@@ -3,6 +3,8 @@ import * as ui from './ui.js';
 import * as store from './storage.js';
 import { Sesion } from './testEngine.js';
 import { slug, validar } from './fileParser.js';
+import { iniciarPortada } from './portada.js';
+import { iniciarContacto } from './contacto.js';
 
 let tests = [], avisos = [], sesion = null, timer = null, config = {};
 
@@ -102,6 +104,8 @@ function actualizarUso() { ui.$('#uso-almacen').textContent = `Espacio usado en 
 
 document.addEventListener('DOMContentLoaded', async () => {
   ui.initModales();
+  iniciarPortada();
+  iniciarContacto();
   document.querySelectorAll('.nav-btn').forEach(b => b.addEventListener('click', () => { if (b.dataset.go === 'pantalla-guardado') actualizarUso(); ui.mostrar(b.dataset.go); }));
   ui.$('#btn-exportar').addEventListener('click', () => { store.exportarBackup(); ui.toast('Estadísticas descargadas'); });
   ui.$('#in-backup').addEventListener('change', async e => {

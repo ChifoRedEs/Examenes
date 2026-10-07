@@ -21,6 +21,9 @@ export function mostrar(id) {
   document.querySelectorAll('.pantalla').forEach(s => { s.hidden = s.id !== id; });
   document.querySelectorAll('.nav-btn').forEach(b => b.classList.toggle('activo', b.dataset.go === id));
   $('#nav').hidden = ['pantalla-test', 'pantalla-resultado'].includes(id);
+  const p = $('#portada'); // portada grande en el menú, compacta en otras pantallas, oculta durante el test
+  p.hidden = ['pantalla-test', 'pantalla-resultado'].includes(id);
+  p.classList.toggle('compacto', id !== 'pantalla-menu');
   window.scrollTo(0, 0);
 }
 
