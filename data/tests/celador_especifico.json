@@ -1,6 +1,6 @@
 {
   "categoria": "Celador SMS",
-  "titulo": "Cuestionario Oficial Oposiciones Celador SMS (Test Específico)",
+  "titulo": "Test Específico - Oposiciones Celador SMS",
   "preguntas": [
     {
       "id": 1,
@@ -18,7 +18,7 @@
       "texto": "Según la Ley Orgánica 15/99, de 13 de diciembre, de Protección de Datos de Carácter Personal, se entiende por \"afectado o interesado\":",
       "opciones": {
         "A": "Persona física titular de los datos que sea objeto del tratamiento de datos.",
-        "B": "Persona fisica o jurídica titular de los datos que sea objeto del tratamiento de datos.",
+        "B": "Persona física o jurídica titular de los datos que sea objeto del tratamiento de datos.",
         "C": "Persona física titular de los datos personales.",
         "D": "Persona física o jurídica titular de los datos personales."
       },
@@ -99,7 +99,7 @@
         "C": "Director Gerente a propuesta del Director Médico con informe de la Junta Técnico Asistencial.",
         "D": "Director Médico."
       },
-      "correcta": "A"
+      "correcta": "C"
     },
     {
       "id": 10,
@@ -277,3 +277,478 @@
       },
       "correcta": "D"
     },
+    {
+      "id": 26,
+      "texto": "Inicialmente, las precauciones que deben aplicarse a todos los pacientes atendidos en los hospitales, independientemente de su diagnóstico o presunto grado de infección se denominan:",
+      "opciones": {
+        "A": "Precauciones básicas.",
+        "B": "Precauciones estándar.",
+        "C": "Precauciones preventivas.",
+        "D": "Precauciones basadas en la transmisión."
+      },
+      "correcta": "B"
+    },
+    {
+      "id": 27,
+      "texto": "Estando usted prestando sus servicios como celador en un Quirófano, el Cirujano le encomienda varias tareas, ¿cuál de las siguientes debe realizar?:",
+      "opciones": {
+        "A": "Revisar las instalaciones eléctricas por si hubiera algún defecto.",
+        "B": "Elegir los accesorios que deberá llevar la mesa quirúrgica según el tipo de intervención.",
+        "C": "Transportar hasta el quirófano el arco quirúrgico o amplificador de imagen.",
+        "D": "Ninguna de las anteriores son funciones del celador."
+      },
+      "correcta": "C"
+    },
+    {
+      "id": 28,
+      "texto": "¿Cómo se denomina el sistema informático que da soporte a la historia clínica digital y agiliza las gestiones para profesionales y pacientes en los SUAP (Servicios de Urgencias de Atención Primaria) del Servicio Murciano de Salud?:",
+      "opciones": {
+        "A": "SELENE.",
+        "B": "SURE.",
+        "C": "SUMA.",
+        "D": "SAINT."
+      },
+      "correcta": "B"
+    },
+    {
+      "id": 29,
+      "texto": "Señale la afirmación correcta:",
+      "opciones": {
+        "A": "El equipo de atención primaria tiene como ámbito territorial de actuación la Zona de Salud y como localización física principal el Centro de Salud.",
+        "B": "El equipo de atención primaria tiene como ámbito territorial de actuación el Centro de Salud y como localización física principal el Área de Salud.",
+        "C": "El equipo de atención primaria presta sus servicios indistintamente tanto en la Zona de Salud como en el Centro de Salud.",
+        "D": "Las tres respuestas anteriores son falsas."
+      },
+      "correcta": "A"
+    },
+    {
+      "id": 30,
+      "texto": "Forman parte del Equipo de Atención Primaria que realizan su labor en una Zona de Salud:",
+      "opciones": {
+        "A": "El personal de administración, información, mantenimiento y aquellos otros que se estimen precisos para el óptimo funcionamiento del centro.",
+        "B": "El personal Sanitario y Facultativo que sea estatutario fijo.",
+        "C": "El personal Farmacéutico del área Sanitaria.",
+        "D": "Los veterinarios adscritos al área sanitaria."
+      },
+      "correcta": "A"
+    },
+    {
+      "id": 31,
+      "texto": "En atención a las peculiaridades de la Zona de Salud, además del Centro de Salud como eje sanitario de la misma:",
+      "opciones": {
+        "A": "Esta posibilidad no está prevista ni regulada en el marco de la Asistencia Sanitaria del Servicio Murciano de Salud.",
+        "B": "Podrán existir otros puntos asistenciales para completar el servicio de Atención Primaria en la zona.",
+        "C": "En caso de que se creen otros puntos asistenciales, estos dependerán exclusivamente del Ayuntamiento de la zona correspondiente.",
+        "D": "Dependerá que así lo solicite el Consejo de Participación ciudadana del Área y lo autorice la Gerencia del Servicio Murciano de Salud."
+      },
+      "correcta": "B"
+    },
+    {
+      "id": 32,
+      "texto": "Durante una intervención quirúrgica, el cirujano solicita realizar una placa de RX al paciente. ¿A quién corresponde conectar y colocar el portátil de RX, dentro del quirófano?",
+      "opciones": {
+        "A": "Al Celador del quirófano.",
+        "B": "Al Técnico Especialista de Radiología.",
+        "C": "Al Enfermero circulante.",
+        "D": "Al Celador destinado en el Servicio de Radiología a quien pasará el aviso inmediatamente."
+      },
+      "correcta": "B"
+    },
+    {
+      "id": 33,
+      "texto": "Según la O.M.S. cualquier enfermedad microbiana clínicamente reconocible, que afecta a los pacientes que son atendidos en un hospital y al personal que atiende a dichos pacientes, se denomina:",
+      "opciones": {
+        "A": "Infección nosocomial u hospitalaria.",
+        "B": "Enfermedad laboral.",
+        "C": "Infección vírica.",
+        "D": "Enfermedad profesional."
+      },
+      "correcta": "A"
+    },
+    {
+      "id": 34,
+      "texto": "De las siguientes medidas higiénicas, solo una es imprescindible para el manejo de un paciente ingresado con tuberculosis:",
+      "opciones": {
+        "A": "Utilizar ropa aséptica.",
+        "B": "Uso de mascarilla de alta resolución.",
+        "C": "Uso de gorro y guantes.",
+        "D": "Es suficiente con extremar la profilaxis."
+      },
+      "correcta": "B"
+    },
+    {
+      "id": 35,
+      "texto": "Durante el traslado de un paciente desde una Unidad de Hospitalización a otro Servicio del Hospital, el celador deberá:",
+      "opciones": {
+        "A": "Cuidar que el paciente no pase frío.",
+        "B": "Elegir, previa consulta con el personal de enfermería, el medio de transporte más adecuado.",
+        "C": "Identificarse al paciente e informarle al servicio donde lo va a trasladar.",
+        "D": "Todas son correctas."
+      },
+      "correcta": "D"
+    },
+    {
+      "id": 36,
+      "texto": "Si fuese necesario rasurar a un paciente, el celador:",
+      "opciones": {
+        "A": "Rasurará a los enfermos masculinos que no puedan hacerlo por sí mismos.",
+        "B": "En ausencia del peluquero o por urgencia en el tratamiento, rasurará a los pacientes masculinos que vayan a ser sometidos a intervención quirúrgica.",
+        "C": "Indistintamente que el paciente sea masculino o femenino, seguirá las indicaciones del personal sanitario.",
+        "D": "No es función del celador en ningún caso."
+      },
+      "correcta": "B"
+    },
+    {
+      "id": 37,
+      "texto": "Según el artículo 14.2 de la orden del ministerio de trabajo de 5 de julio de 1971, no es una función del celador:",
+      "opciones": {
+        "A": "Dar cuenta a sus inmediatos superiores de los desperfectos en la conservación del material.",
+        "B": "Tener a su cargo la vigilancia nocturna, tanto del interior como del exterior del edificio.",
+        "C": "Vigilar las entradas de la institución, no permitiendo el acceso a sus dependencias más que a las personas enfermas.",
+        "D": "Vigilar que los visitantes no se sienten en las camas."
+      },
+      "correcta": "C"
+    },
+    {
+      "id": 38,
+      "texto": "El celador debe transportar el mobiliario entre distintas unidades de un Centro Sanitario:",
+      "opciones": {
+        "A": "Utilizando las técnicas, equipos y materiales accesorios, bajo la supervisión del personal correspondiente, cumpliendo con los protocolos y/o normativa aplicable en los Centros Sanitarios.",
+        "B": "Utilizando las técnicas, equipos y materiales accesorios que, bajo su responsabilidad personal, considere más oportunas en cada momento.",
+        "C": "Utilizando las técnicas, equipos y materiales accesorios cuando por su escasa fuerza física no sea capaz de hacerlo sin recurrir a ellos.",
+        "D": "El celador no debe transportar nunca mobiliario."
+      },
+      "correcta": "A"
+    },
+    {
+      "id": 39,
+      "texto": "En una asistencia domiciliaria hay que trasladar al paciente en camilla desde su domicilio hasta la ambulancia, el celador:",
+      "opciones": {
+        "A": "Le solicitará a un familiar que le ayude a trasladar al paciente en la camilla.",
+        "B": "Preparará todo el equipamiento necesario para proceder al traslado con el personal del equipo.",
+        "C": "Consultará a su superior cómo debe proceder para trasladar al paciente.",
+        "D": "No es función suya trasladar al paciente."
+      },
+      "correcta": "B"
+    },
+    {
+      "id": 40,
+      "texto": "Los Servicios de Urgencias de Atención Primaria (SUAP) de la Región de Murcia, prestarán sus servicios 24 horas:",
+      "opciones": {
+        "A": "Sí, de forma ininterrumpida.",
+        "B": "Solo las urgencias hospitalarias funcionan 24 horas.",
+        "C": "Los servicios especiales sí, los normales no.",
+        "D": "No, su horario es de 15 a 8 horas."
+      },
+      "correcta": "A"
+    },
+    {
+      "id": 41,
+      "texto": "El celador trasladará los aparatos sanitarios, maquinaria y ayudas técnicas:",
+      "opciones": {
+        "A": "Teniendo en cuenta sus características, para evitar situaciones de riesgo.",
+        "B": "A la mayor velocidad posible para que lleguen a su destino y estén disponibles lo antes posible.",
+        "C": "Acompañado por un supervisor.",
+        "D": "Siempre que exista una orden por escrito del Director de Gestión."
+      },
+      "correcta": "A"
+    },
+    {
+      "id": 42,
+      "texto": "¿Cuál de las siguientes tareas debe realizar un Celador del equipo de Atención Primaria?:",
+      "opciones": {
+        "A": "Recogida de avisos para atención domiciliaria.",
+        "B": "Atención telefónica.",
+        "C": "Traslado, de los pacientes que lo requieran, en silla de ruedas.",
+        "D": "Todas las respuestas anteriores son correctas."
+      },
+      "correcta": "D"
+    },
+    {
+      "id": 43,
+      "texto": "Cuando el celador desempeña sus funciones en un Centro de Salud trasladará el mobiliario dentro del edificio:",
+      "opciones": {
+        "A": "Cuando así se lo indique su superior inmediato.",
+        "B": "Siempre que se lo indique su superior inmediato y disponga de los medios adecuados.",
+        "C": "Siempre que beneficie el desempeño del trabajo del personal del centro.",
+        "D": "El celador solo realiza esta tarea cuando desempañe sus funciones en un centro hospitalario bajo la supervisión del Jefe de Personal Subalterno."
+      },
+      "correcta": "B"
+    },
+    {
+      "id": 44,
+      "texto": "En relación con el traslado de un paciente en una ambulancia de un Centro Sanitario a otro:",
+      "opciones": {
+        "A": "El celador no está autorizado a subir a una ambulancia, ya que corresponde al personal sanitario.",
+        "B": "Solo podrá acompañar al paciente en caso de urgencia vital.",
+        "C": "Estará a la cabecera del enfermo para atender cualquier necesidad asistencial que plantee el paciente.",
+        "D": "Ninguna de las respuestas anteriores es correcta."
+      },
+      "correcta": "D"
+    },
+    {
+      "id": 45,
+      "texto": "¿Deberá el Celador participar en las reuniones del equipo de Atención Primaria?:",
+      "opciones": {
+        "A": "Sí.",
+        "B": "No.",
+        "C": "Sí, si se lo ordena el coordinador.",
+        "D": "Solo cuando tenga algún tema que tratar que afecte a sus tareas y a la organización del Centro."
+      },
+      "correcta": "A"
+    },
+    {
+      "id": 46,
+      "texto": "La atención a las urgencias fuera del horario ordinario de funcionamiento de los Equipos de Atención Primaria:",
+      "opciones": {
+        "A": "Se realizará habitualmente mediante la atención en la puerta de urgencias de los Hospitales.",
+        "B": "Se realizará en los puntos de Atención continuada PAC.",
+        "C": "Se realizará en los puntos de Especial Aislamiento PEA.",
+        "D": "Las respuestas B y C son correctas."
+      },
+      "correcta": "D"
+    },
+    {
+      "id": 47,
+      "texto": "Usted es celador y desempeña sus funciones en el servicio de farmacia de un Hospital. Al acceder al almacén de sueros de una de las plantas para depositar en él un pedido, encuentra líquido derramado que procede de una de las cajas que allí están almacenadas. Ante esa situación usted debe:",
+      "opciones": {
+        "A": "Dirigirse al control de la planta y comunicar al personal de enfermería la incidencia detectada.",
+        "B": "Recoger el líquido del suelo, sacar al pasillo todas las cajas que se encuentran mojadas, depositar en el almacén de sueros de la planta el nuevo pedido y regresar al servicio de farmacia.",
+        "C": "Limitarse a depositar en el almacén de sueros de la planta el nuevo pedido y regresar al servicio de farmacia con todas las cajas que ha encontrado mojadas.",
+        "D": "Depositar en el almacén de sueros de la planta el nuevo pedido y regresar al servicio de farmacia con todas las cajas que ha encontrado mojadas."
+      },
+      "correcta": "A"
+    },
+    {
+      "id": 48,
+      "texto": "Usted es celador de farmacia en un centro hospitalario y se le comunica por vía telefónica que en el almacén de quirófano hay varias cajas de sueros caducados para retirar. Ante esta situación usted:",
+      "opciones": {
+        "A": "Pospone lo que está haciendo en ese momento y se dirige al quirófano para retirar las cajas de sueros caducados dado el servicio crítico de que se trata.",
+        "B": "Toma nota de la petición y espera a que, por otro motivo, tenga que desplazarse al quirófano, para así aprovechar la ocasión y retirar las cajas de suero caducado sin tener que desplazarse hasta allí expresamente para ello.",
+        "C": "Lo pone en conocimiento del responsable de la farmacia, para que sea él quien le indique cuándo debe ir usted al quirófano a retirar los sueros caducados.",
+        "D": "Comunica a la persona que ha solicitado que usted retire las cajas de suero caducado que esa tarea corresponde al celador de quirófano."
+      },
+      "correcta": "C"
+    },
+    {
+      "id": 49,
+      "texto": "Usted es celador y desempeña sus funciones en el servicio de farmacia de un hospital. Cuando se dispone a trasladar el carro de unidosis a una de las plantas de hospitalización, se recibe por vía telefónica la petición de añadir una nueva medicación para uno de los pacientes ingresados en dicha planta. La persona que ha atendido el teléfono le informa de la medicación solicitada y le pide que no se marche hasta que no se haya añadido al carro de unidosis. A continuación usted debe:",
+      "opciones": {
+        "A": "Dirigirse al almacén de farmacia, recoger la medicación indicada y añadirla al carro de unidosis.",
+        "B": "Trasladar el carro de unidosis a la planta correspondiente mientras en la farmacia le preparan la nueva medicación solicitada, que trasladará posteriormente a la planta.",
+        "C": "Llamar a la planta para asegurarse de que la nueva medicación solicitada está indicada en situaciones de urgencia.",
+        "D": "Trasladar el carro de unidosis a la planta correspondiente una vez que el personal de farmacia encargado de su preparación haya añadido la nueva medicación solicitada."
+      },
+      "correcta": "D"
+    },
+    {
+      "id": 50,
+      "texto": "¿Qué es el carro de unidosis?:",
+      "opciones": {
+        "A": "Es un carro en el que se traslada la medicación de los pacientes que se encuentran en el hospital de día en algunos centros hospitalarios.",
+        "B": "Es un carro en el que se traslada la medicación de los pacientes ingresados en un determinado servicio, convenientemente clasificada, generalmente en cajetines etiquetados cada uno de ellos con la referencia de una cama.",
+        "C": "Es un carro que se utiliza una sola vez para trasladar la medicación de un paciente aislado por riesgo de contagio.",
+        "D": "Es un carro en el que se traslada desde el almacén de farmacia hasta las plantas de hospitalización el pedido semanal."
+      },
+      "correcta": "B"
+    },
+    {
+      "id": 51,
+      "texto": "Cuando se traslada a un enfermo, sólo se abandonará a éste:",
+      "opciones": {
+        "A": "Cuando esté en el servicio de destino.",
+        "B": "Cuando la persona responsable se haga cargo de él.",
+        "C": "Cuando surja un traslado urgente.",
+        "D": "Cuando el enfermo preste su conformidad."
+      },
+      "correcta": "B"
+    },
+    {
+      "id": 52,
+      "texto": "La posición en la que el paciente se apoya sobre sus rodillas y pecho (estando boca abajo), las rodillas ligeramente separadas y los muslos perpendiculares a la cama, es:",
+      "opciones": {
+        "A": "Posición de trendelenburg.",
+        "B": "Posición genupectoral.",
+        "C": "Posición ginecológica.",
+        "D": "Posición ventral."
+      },
+      "correcta": "B"
+    },
+    {
+      "id": 53,
+      "texto": "Cuando un enfermo está tumbado sobre su espalda en un plano paralelo al suelo, con los brazos extendidos junto al cuerpo, las piernas flexionadas y separadas con las plantas de los pies apoyadas sobre la cama, decimos que se encuentra en la posición anatómica:",
+      "opciones": {
+        "A": "Perniflexípoda.",
+        "B": "Inyectiva.",
+        "C": "Ginecológica.",
+        "D": "Decúbito sobreflexivo."
+      },
+      "correcta": "C"
+    },
+    {
+      "id": 54,
+      "texto": "En la posición anatómica genupectoral el enfermo se encuentra:",
+      "opciones": {
+        "A": "Con el tronco hacia delante, descansando sobre las rodillas, con los brazos cruzados y la cabeza apoyada sobre ellos.",
+        "B": "Con el tronco hacia atrás, descansando sobre las rodillas, con los brazos pegados al cuerpo y la cabeza inclinada hacia un lado.",
+        "C": "Con el tronco hacia delante, descansando sobre las rodillas, con las palmas de las manos sobre la cama, y el cuello extendido.",
+        "D": "Boca abajo, con las piernas flexionadas hacia arriba."
+      },
+      "correcta": "A"
+    },
+    {
+      "id": 55,
+      "texto": "Al abordar la movilización o transferencia de un enfermo, debemos poner atención a hacerlo adoptando los siguientes principios de mecánica corporal:",
+      "opciones": {
+        "A": "Espalda recta, piernas flexionadas y la carga lo más alejada posible de nuestro cuerpo.",
+        "B": "Espalda recta, piernas flexionadas y los pies lo más juntos posible.",
+        "C": "Espalda recta, piernas flexionadas y la carga lo más cerca posible de nuestro cuerpo.",
+        "D": "Espalda recta, piernas rectas y la carga lo más cerca posible de nuestro cuerpo."
+      },
+      "correcta": "C"
+    },
+    {
+      "id": 56,
+      "texto": "Al trasladar a un enfermo en silla:",
+      "opciones": {
+        "A": "El celador lo hará en todo momento empujando a la silla por detrás.",
+        "B": "El celador andará de espaldas cuando sea necesario para garantizar la seguridad del enfermo.",
+        "C": "Por nuestra seguridad, nunca utilizaremos el palo de gotero.",
+        "D": "Le exigiremos que se proteja con una bata antes de salir de la habitación."
+      },
+      "correcta": "B"
+    },
+    {
+      "id": 57,
+      "texto": "Al movilizar a un enfermo encamado para ayudarle a ponerse en pie:",
+      "opciones": {
+        "A": "Debemos hacer la maniobra de la manera más rápida y ágil posible.",
+        "B": "Como paso intermedio ayudaremos al enfermo a sentarse en el borde de la cama y esperaremos unos minutos mientras se adapta a la nueva posición.",
+        "C": "Debemos elevar la cama al máximo antes de iniciar la maniobra.",
+        "D": "Utilizaremos siempre la camilla de transferencia."
+      },
+      "correcta": "B"
+    },
+    {
+      "id": 58,
+      "texto": "En la movilización de un enfermo:",
+      "opciones": {
+        "A": "El celador actuará con plena autonomía, dados los conocimientos con los que cuenta en función de su titulación.",
+        "B": "Siempre han de participar, como mínimo, dos celadores.",
+        "C": "El celador participará siguiendo las indicaciones del personal de enfermería.",
+        "D": "Nunca ha de participar el celador, pues ésta es una función exclusiva del personal de enfermería."
+      },
+      "correcta": "C"
+    },
+    {
+      "id": 59,
+      "texto": "Al abordar la movilización de un enfermo, la seguridad de éste nos aconseja sujetarlo preferentemente:",
+      "opciones": {
+        "A": "Por zonas firmes y en relación directa con el esqueleto.",
+        "B": "Por las zonas más blandas y flexibles.",
+        "C": "Por las extremidades.",
+        "D": "Por las extremidades y el cuello."
+      },
+      "correcta": "A"
+    },
+    {
+      "id": 60,
+      "texto": "Al trasladar a un enfermo en camilla:",
+      "opciones": {
+        "A": "Debemos empujar desde la cabeza del enfermo, de manera que lleve los pies por delante.",
+        "B": "Debemos asegurarnos de que la camilla sea hidráulica.",
+        "C": "Debemos ir hablando siempre con él para garantizar que no pierda el conocimiento.",
+        "D": "Lo haremos a mayor velocidad que si lo hiciéramos en una cama."
+      },
+      "correcta": "A"
+    },
+    {
+      "id": 61,
+      "texto": "Una de las formas de franqueo de los servicios postales es:",
+      "opciones": {
+        "A": "La póliza.",
+        "B": "El decomiso.",
+        "C": "La factura.",
+        "D": "El sello de correos."
+      },
+      "correcta": "D"
+    },
+    {
+      "id": 62,
+      "texto": "No es un requisito del envío de publicidad directa:",
+      "opciones": {
+        "A": "Que su distribución se efectúe en sobre abierto, para facilitar la inspección postal.",
+        "B": "Que el peso máximo de este tipo de envíos sea de 12 kilos.",
+        "C": "Que esté destinado a la promoción y venta de bienes y servicios.",
+        "D": "Que esté formado por cualquier comunicación que consista únicamente en anuncios, estudios de mercado o publicidad."
+      },
+      "correcta": "B"
+    },
+    {
+      "id": 63,
+      "texto": "Los servicios de envíos que, previo pago de una cantidad, establecen una garantía fija contra los riesgos de pérdida, sustracción o deterioro, y facilitan al remitente una prueba del depósito del envío postal o de su entrega al destinatario, se denominan:",
+      "opciones": {
+        "A": "Servicios con valor declarado.",
+        "B": "Servicios contra reembolso.",
+        "C": "Servicios de envíos certificados.",
+        "D": "Servicios de envíos generales."
+      },
+      "correcta": "C"
+    },
+    {
+      "id": 64,
+      "texto": "Usted recibe de un superior el encargo de realizar 50 fotocopias en color de un documento original que él le entrega. Su superior le indica que dé los pasos oportunos para realizar el encargo a la mayor brevedad y le pide que, una vez hechas las copias, se dirija de inmediato a su despacho donde le espera para que se las entregue en mano. Cuando se dispone a realizar el encargo, encuentra que la única fotocopiadora capaz de realizar copias en color está rota. Ante este contratiempo, usted:",
+      "opciones": {
+        "A": "Realizará las 50 copias en blanco y negro y se las entregará al superior del que recibió el encargo.",
+        "B": "Dejará el original junto a la fotocopiadora en color para volver en otro momento y comprobar si ésta ha sido reparada.",
+        "C": "Comunicará al superior del que recibió el encargo que la fotocopiadora en color está rota y que, por lo tanto, de momento, no puede cumplir el encargo.",
+        "D": "Pedirá a los compañeros que le avisen en cuanto sea posible realizar fotocopias en color."
+      },
+      "correcta": "C"
+    },
+    {
+      "id": 65,
+      "texto": "Es competencia del celador el manejo de:",
+      "opciones": {
+        "A": "Encuadernadoras, pero no de fotocopiadoras y multicopistas.",
+        "B": "Fotocopiadoras y multicopistas, pero no encuadernadoras.",
+        "C": "Fotocopiadoras, multicopistas y encuadernadoras.",
+        "D": "Fotocopiadoras, multicopistas y bombas de perfusión."
+      },
+      "correcta": "C"
+    },
+    {
+      "id": 66,
+      "texto": "¿Cómo se denomina el riesgo asociado a la utilización de una fotocopiadora?:",
+      "opciones": {
+        "A": "Ergonómico.",
+        "B": "Térmico.",
+        "C": "Mecánico.",
+        "D": "Todos son riesgos asociados a su uso."
+      },
+      "correcta": "D"
+    },
+    {
+      "id": 67,
+      "texto": "Se consideran envíos postales:",
+      "opciones": {
+        "A": "La carta, la tarjeta postal y el email.",
+        "B": "La carta y la tarjeta postal.",
+        "C": "El paquete postal, la tarjeta postal y el email.",
+        "D": "La tarjeta postal y el email."
+      },
+      "correcta": "B"
+    },
+    {
+      "id": 68,
+      "texto": "Con el uso de multicopista se obtiene:",
+      "opciones": {
+        "A": "Un bajo número de copias de un original, a baja velocidad, a partir de un cliché.",
+        "B": "Un alto número de copias de un original, a gran velocidad, siempre que no incluya imágenes.",
+        "C": "Un alto número de copias de un original, a gran velocidad, a partir de un cliché.",
+        "D": "Un alto número de copias de un original, a gran velocidad, siempre que incluya sólo imágenes."
+      },
+      "correcta": "C"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "categoria": "Celador SMS",
-  "titulo": "Cuestionario Oficial Oposiciones Celador SMS (Test General)",
+  "titulo": "Test General - Oposiciones Celador SMS",
   "preguntas": [
     {
       "id": 1,
@@ -33,13 +33,13 @@
         "C": "Autorización previa de la autoridad, en el caso de manifestaciones.",
         "D": "Autorización previa, para el caso de reuniones en lugares de tránsito público."
       },
-      "correcta": "D"
+      "correcta": "B"
     },
     {
       "id": 4,
       "texto": "¿Cuál de los siguientes principios figura entre los establecidos en la constitución española de 1978, como \"principios rectores de la política social y económica\"?",
       "opciones": {
-        "A": "Los padres deben prestar asistencia sanitaria en todo orden a los hijos habidos dentro y fuera del matrimonio, hasta los dieciséis años de edad..",
+        "A": "Los padres deben prestar asistencia sanitaria en todo orden a los hijos habidos dentro y fuera del matrimonio, hasta los dieciséis años de edad.",
         "B": "Los poderes públicos aseguran la protección social, económica, política y jurídica de la familia.",
         "C": "Los poderes públicos mantendrán un régimen público de Seguridad Social para todos los ciudadanos, que garantice la asistencia y prestaciones complementarias ante situaciones de necesidad.",
         "D": "Ninguna de las respuestas anteriores es correcta."
@@ -64,7 +64,7 @@
         "A": "Todos los españoles tienen la obligación de trabajar.",
         "B": "Es uno de los derechos y deberes de los ciudadanos.",
         "C": "La Ley regulará un estatuto de los trabajadores.",
-        "D": "Son correctas las respuestas B y С."
+        "D": "Son correctas las respuestas B y C."
       },
       "correcta": "D"
     },
@@ -162,8 +162,8 @@
       "opciones": {
         "A": "Legalidad, eficacia, economía, jerarquía y coordinación.",
         "B": "Legalidad, eficacia, economía, jerarquía y coordinación, así como a los de descentralización y desconcentración.",
-        "C": "Legalidad, eficacia, economía, jerarquía, coordinación y sometimiento a la Ley.",
-        "D": "Legalidad, eficacia, eficiencía, economía, jerarquía y coordinación, así como a los de descentralización y desconcentración."
+        "C": "Legalidad, eficacia, economía, jerarquía y coordinación y sometimiento a la Ley.",
+        "D": "Legalidad, eficacia, eficiencia, economía, jerarquía y coordinación, así como a los de descentralización y desconcentración."
       },
       "correcta": "B"
     },
@@ -232,6 +232,50 @@
         "D": "Todas las respuestas son correctas."
       },
       "correcta": "D"
+    },
+    {
+      "id": 22,
+      "texto": "Son estados miembros de la Unión Europea:",
+      "opciones": {
+        "A": "Bulgaria.",
+        "B": "Rumania.",
+        "C": "Eslovaquia.",
+        "D": "Todas las respuestas son correctas."
+      },
+      "correcta": "D"
+    },
+    {
+      "id": 23,
+      "texto": "La libre circulación de personas en la Unión Europea permite que:",
+      "opciones": {
+        "A": "Todo nacional de los Estados Unidos podrá circular por vías pertenecientes a Estados de la Unión Europea.",
+        "B": "Todo ciudadano de la Unión Europea que disponga de un documento de identidad o de un pasaporte válidos tiene derecho a desplazarse a otro Estado miembro.",
+        "C": "Todas las personas, independientemente de su nacionalidad, podrán entrar libremente en cualquier Estado miembro de la Unión Europea.",
+        "D": "No se puede exigir visado de entrada y salida a nacionales de estados no miembros de la Unión Europea."
+      },
+      "correcta": "B"
+    },
+    {
+      "id": 24,
+      "texto": "¿Cuáles han sido los dos últimos estados en adherirse a la Unión Europea?",
+      "opciones": {
+        "A": "España y Portugal.",
+        "B": "Alemania y Letonia.",
+        "C": "Chipre y Eslovaquia.",
+        "D": "Bulgaria y Rumania."
+      },
+      "correcta": "D"
+    },
+    {
+      "id": 25,
+      "texto": "La tarjeta sanitaria para recibir asistencia sanitaria en la Unión Europea tiene una validez a partir de la fecha de su emisión de:",
+      "opciones": {
+        "A": "6 meses.",
+        "B": "24 meses.",
+        "C": "12 meses.",
+        "D": "Tres meses."
+      },
+      "correcta": "B"
     },
     {
       "id": 26,
@@ -405,7 +449,7 @@
         "A": "Unidad Jurídica de Estudios e Informes.",
         "B": "Servicio de Seguridad e Higiene.",
         "C": "Servicio de Obras y Contratación.",
-        "D": "Servicio Juridico."
+        "D": "Servicio Jurídico."
       },
       "correcta": "B"
     },
@@ -455,17 +499,6 @@
     },
     {
       "id": 46,
-      "texto": "La ley 55/2003 establece que el tiempo de trabajo correspondiente a la jornada ordinaria del personal estatutario no excederá de: (anulada)",
-      "opciones": {
-        "A": "8 horas ininterrumpidas y hasta 24 h. para determinados servicios o unidades sanitarias, con carácter excepcional y cuando así lo aconsejen razones organizativas o asistenciales.",
-        "B": "12 horas ininterrumpidas y hasta 24 h. para determinados servicios o unidades sanitarias, con carácter excepcional y cuando así lo aconsejen razones organizativas o asistenciales.",
-        "C": "10 horas.",
-        "D": "8 horas."
-      },
-      "correcta": "B"
-    },
-    {
-      "id": 47,
       "texto": "De acuerdo al artículo 73 de la ley 55/2003, las faltas que cometa el personal estatutario serán corregidas con algunas de las siguientes sanciones:",
       "opciones": {
         "A": "Separación del servicio, traslado forzoso con cambio de localidad, suspensión de funciones, traslado forzoso a otra institución o centro sin cambio de localidad, apercibimiento y reducción proporcional de retribuciones.",
@@ -476,7 +509,7 @@
       "correcta": "B"
     },
     {
-      "id": 48,
+      "id": 47,
       "texto": "El personal estatutario que no se incorpore al destino obtenido en un procedimiento de movilidad voluntaria dentro de los plazos establecidos o de las prórrogas de los mismos que legal o reglamentariamente procedan, quedará en situación de:",
       "opciones": {
         "A": "Servicio activo pendiente de adjudicación de destino.",
@@ -487,7 +520,7 @@
       "correcta": "B"
     },
     {
-      "id": 49,
+      "id": 48,
       "texto": "El capítulo V del estatuto marco del personal estatutario de los servicios de salud establece como causa o causas de la extinción de la condición de personal estatutario fijo:",
       "opciones": {
         "A": "La sanción firme de suspensión de funciones.",
@@ -498,7 +531,7 @@
       "correcta": "B"
     },
     {
-      "id": 50,
+      "id": 49,
       "texto": "El periodo de vacación anual al que tienen derecho el personal estatutario podrá ser sustituido:",
       "opciones": {
         "A": "Por compensación económica, siempre que sea a solicitud personal.",
@@ -509,7 +542,7 @@
       "correcta": "B"
     },
     {
-      "id": 51,
+      "id": 50,
       "texto": "Durante la tramitación de un expediente disciplinario a un celador, por falta grave cometida, se acuerda la suspensión provisional de funciones. En relación a esta situación, ¿qué afirmación es correcta?",
       "opciones": {
         "A": "Por falta grave no se puede acordar suspensión provisional de funciones.",
@@ -520,7 +553,7 @@
       "correcta": "C"
     },
     {
-      "id": 52,
+      "id": 51,
       "texto": "De acuerdo Ley 55/2003 de 16 de diciembre, del Estatuto Marco, ¿cuál de estos derechos del personal estatutario es un derecho colectivo?:",
       "opciones": {
         "A": "Disponer de servicios de prevención y de órganos representativos en materia de seguridad laboral.",
@@ -531,7 +564,7 @@
       "correcta": "A"
     },
     {
-      "id": 53,
+      "id": 52,
       "texto": "¿Quiénes pueden recuperar su condición de personal estatutario tras perderla?:",
       "opciones": {
         "A": "El personal estatutario fijo.",
@@ -542,7 +575,7 @@
       "correcta": "A"
     },
     {
-      "id": 54,
+      "id": 53,
       "texto": "Cuando de un procedimiento de movilidad se derive cambio en el servicio de salud de destino, el plazo de toma de posesión del personal estatutario será de:",
       "opciones": {
         "A": "Un mes a contar desde el día del cese en el destino anterior.",
@@ -553,7 +586,7 @@
       "correcta": "A"
     },
     {
-      "id": 55,
+      "id": 54,
       "texto": "La jubilación del personal estatutario, tal y como establece el artículo 26 del Estatuto Marco, será:",
       "opciones": {
         "A": "Forzosa en todo caso.",
@@ -564,7 +597,7 @@
       "correcta": "B"
     },
     {
-      "id": 56,
+      "id": 55,
       "texto": "¿Cuál de las siguientes opciones no es un deber del personal estatutario recogido en el Estatuto Marco?:",
       "opciones": {
         "A": "El encuadramiento en el Régimen General de la Seguridad Social.",
@@ -575,18 +608,7 @@
       "correcta": "A"
     },
     {
-      "id": 57,
-      "texto": "La ley 5/2001, en su artículo 44, establece los tramos de la carrera profesional, que son: (anulada)",
-      "opciones": {
-        "A": "A, B, C, D y E.",
-        "B": "Máximo 6 para las categorías del grupo A.",
-        "C": "Máximo 5 para las categorías de los grupos B, C y D.",
-        "D": "Máximo 4 para la categoría del grupo E."
-      },
-      "correcta": "B"
-    },
-    {
-      "id": 58,
+      "id": 56,
       "texto": "Referente al permiso por asuntos propios, sin ninguna retribución, ¿qué afirmación es correcta?:",
       "opciones": {
         "A": "El personal estatutario podrá disponer de seis días al año.",
@@ -597,18 +619,7 @@
       "correcta": "B"
     },
     {
-      "id": 59,
-      "texto": "La plaza que tenga atribuido complemento de destino de un nivel superior al base de cada grupo se proveerá: (anulada)",
-      "opciones": {
-        "A": "Por libre designación.",
-        "B": "Por concurso de traslados.",
-        "C": "Por concurso de méritos.",
-        "D": "Podrá elegir entre los tres tipos la administración, siempre que se produzca una negociación previa con las fuerzas sindicales en la correspondiente Mesa Sectorial."
-      },
-      "correcta": "C"
-    },
-    {
-      "id": 60,
+      "id": 57,
       "texto": "De acuerdo a la ley 5/2001, de personal estatutario del servicio murciano de salud, ¿qué afirmación es correcta?:",
       "opciones": {
         "A": "La carrera administrativa se instrumenta a través de la posibilidad de acceder a otras plazas mediante concurso de traslados, concurso de méritos y libre designación, y por la promoción interna a otras categorías del mismo grupo o de grupos superiores.",
@@ -619,7 +630,7 @@
       "correcta": "D"
     },
     {
-      "id": 61,
+      "id": 58,
       "texto": "El período de permanencia en la situación de excedencia por cuidado de familiares:",
       "opciones": {
         "A": "Será computable a efectos de trienios y derechos pasivos.",
@@ -630,7 +641,7 @@
       "correcta": "A"
     },
     {
-      "id": 62,
+      "id": 59,
       "texto": "Según el art. 57.3 de La Ley 5/2001 de 5 de diciembre, de Personal Estatutario del Servicio Murciano de Salud:",
       "opciones": {
         "A": "Las madres, por lactancia de un hijo menor de doce meses, tendrán derecho a una hora de ausencia del trabajo, que podrá dividir en varias fracciones.",
@@ -641,7 +652,7 @@
       "correcta": "D"
     },
     {
-      "id": 63,
+      "id": 60,
       "texto": "La convocatoria de un concurso de traslados del personal estatutario tiene una de estas características:",
       "opciones": {
         "A": "No es necesaria su publicación en el BORM, siendo suficiente su difusión a través de los tablones de anuncios de los distintos centros.",
@@ -652,7 +663,7 @@
       "correcta": "D"
     },
     {
-      "id": 64,
+      "id": 61,
       "texto": "Según la Ley 5/2001, de 5 de diciembre, de Personal Estatutario del Servicio Murciano de Salud, en lo relativo a los derechos individuales contemplados en su artículo 39:",
       "opciones": {
         "A": "Serán de aplicación a todo el personal estatutario íntegramente.",
@@ -663,7 +674,7 @@
       "correcta": "C"
     },
     {
-      "id": 65,
+      "id": 62,
       "texto": "¿Cuál de estos permisos no está contemplado para el personal estatutario?:",
       "opciones": {
         "A": "Para realizar funciones sindicales o de representación del personal.",
@@ -674,7 +685,7 @@
       "correcta": "B"
     },
     {
-      "id": 66,
+      "id": 63,
       "texto": "El paciente puede revocar libremente su consentimiento (artículo 8.5 Ley 41/2002):",
       "opciones": {
         "A": "Por escrito y en cualquier momento.",
@@ -685,7 +696,7 @@
       "correcta": "A"
     },
     {
-      "id": 67,
+      "id": 64,
       "texto": "¿Se puede facilitar información asistencial a los familiares del paciente (artículo 5.1 Ley 41/2002)?:",
       "opciones": {
         "A": "Siempre, hasta el 2º grado de consanguinidad o afinidad.",
@@ -696,7 +707,7 @@
       "correcta": "B"
     },
     {
-      "id": 68,
+      "id": 65,
       "texto": "¿Quién garantiza al paciente su derecho a la información asistencial (artículo 4.3 Ley 41/2002)?:",
       "opciones": {
         "A": "El Servicio Murciano de Salud.",
@@ -707,7 +718,18 @@
       "correcta": "C"
     },
     {
-      "id": 69,
+      "id": 66,
+      "texto": "¿Puede el paciente ejercer su derecho de acceso a la historia clínica por representación (artículo 18.2 Ley 41/2002)?:",
+      "opciones": {
+        "A": "No, nunca.",
+        "B": "Siempre que quede debidamente acreditada.",
+        "C": "Siempre que no haya terceros afectados.",
+        "D": "Sólo en el caso de fallecimiento."
+      },
+      "correcta": "B"
+    },
+    {
+      "id": 67,
       "texto": "Las sugerencias, quejas o reclamaciones y agradecimientos de los usuarios que se presenten directamente en el centro asistencial a que se refieren, se resolverán en un plazo máximo de:",
       "opciones": {
         "A": "15 días.",
@@ -718,7 +740,7 @@
       "correcta": "B"
     },
     {
-      "id": 70,
+      "id": 68,
       "texto": "En relación con la información en el Sistema Nacional de Salud que regula la Ley 41/2002 reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, señale la afirmación correcta:",
       "opciones": {
         "A": "Los servicios públicos, dispondrán de una guía o carta de los servicios en la que se especifiquen sus derechos y obligaciones.",
@@ -729,7 +751,7 @@
       "correcta": "D"
     },
     {
-      "id": 71,
+      "id": 69,
       "texto": "El Servicio de Atención al Usuario, dependerá de:",
       "opciones": {
         "A": "La Supervisora de dicho Servicio.",
@@ -740,7 +762,7 @@
       "correcta": "B"
     },
     {
-      "id": 72,
+      "id": 70,
       "texto": "Según la Ley 3/2009 de los Derechos y Deberes de los Usuarios del Sistema Sanitario de la Región de Murcia, el destinatario del derecho a la información asistencial es:",
       "opciones": {
         "A": "El ciudadano.",
@@ -751,18 +773,18 @@
       "correcta": "B"
     },
     {
-      "id": 73,
+      "id": 71,
       "texto": "Según lo previsto en la normativa vigente en materia de acceso y uso de la Historia Clínica, el celador podrá tener acceso al contenido de una historia clínica:",
       "opciones": {
         "A": "Cuando así se lo solicite un facultativo.",
-        "B": "Para consultar un proceso asistencial si está destinado en el servicio de archivo de HН. СС.",
+        "B": "Para consultar un proceso asistencial si está destinado en el servicio de archivo de HH. CC.",
         "C": "En ningún caso.",
         "D": "En todo caso, siempre y cuando mantenga la confidencialidad sobre la información consultada."
       },
       "correcta": "C"
     },
     {
-      "id": 74,
+      "id": 72,
       "texto": "En relación con el derecho a la intimidad de los pacientes:",
       "opciones": {
         "A": "Toda persona tiene derecho a que se respete el carácter confidencial de los datos referentes a su salud, si así está previsto en las normas de derechos y deberes del centro Sanitario.",
@@ -773,7 +795,7 @@
       "correcta": "D"
     },
     {
-      "id": 75,
+      "id": 73,
       "texto": "En un Centro Sanitario, el Servicio de Atención al Usuario atenderá:",
       "opciones": {
         "A": "A los familiares hasta segundo grado.",
@@ -784,7 +806,7 @@
       "correcta": "D"
     },
     {
-      "id": 76,
+      "id": 74,
       "texto": "¿En el ámbito de la salud, los usuarios y pacientes en la Región de Murcia tienen derecho a recibir información veraz y suficiente en las siguientes áreas:",
       "opciones": {
         "A": "Información asistencial.",
@@ -795,7 +817,7 @@
       "correcta": "D"
     },
     {
-      "id": 77,
+      "id": 75,
       "texto": "El artículo 17 de la ley 31/1995, de prevención de riesgos laborales \"equipos de trabajo y medios de protección individual\", establece que los equipos de protección individual deberán de utilizarse cuando:",
       "opciones": {
         "A": "En todo caso siempre y cuando los facilite el empresario.",
@@ -806,7 +828,7 @@
       "correcta": "D"
     },
     {
-      "id": 78,
+      "id": 76,
       "texto": "De acuerdo con lo establecido en el artículo 15 del r.d. 39/1997 \"reglamento de los servicios de prevención\", de ¿cuántas especialidades o disciplinas preventivas de las previstas en el artículo 34 del citado r.d., habrá de contar el servicio de prevención?:",
       "opciones": {
         "A": "Cuatro.",
@@ -817,7 +839,7 @@
       "correcta": "B"
     },
     {
-      "id": 79,
+      "id": 77,
       "texto": "Los trabajadores, con arreglo a su formación y siguiendo las instrucciones del empresario, tendrán el deber de (artículo 29 ley 31/1995, de prevención de riesgos laborales):",
       "opciones": {
         "A": "Utilizar correctamente, los medios y equipos de protección facilitados por el empresario.",
@@ -828,7 +850,7 @@
       "correcta": "A"
     },
     {
-      "id": 80,
+      "id": 78,
       "texto": "La secuencia correcta a la hora de levantar un objeto es:",
       "opciones": {
         "A": "Conservar la espalda recta, póngase en cuclillas cerca del objeto, coja el objeto firmemente, sostenga la carga cerca del cuerpo, levántese empujando con los fuertes músculos de las piernas.",
@@ -839,7 +861,7 @@
       "correcta": "B"
     },
     {
-      "id": 81,
+      "id": 79,
       "texto": "En las reuniones del Comité de Seguridad y Salud, pueden participar con voz, pero sin voto:",
       "opciones": {
         "A": "El empresario y sus representantes.",
@@ -850,7 +872,7 @@
       "correcta": "C"
     },
     {
-      "id": 82,
+      "id": 80,
       "texto": "El confort térmico es un riesgo que se incluye dentro de la:",
       "opciones": {
         "A": "Higiene industrial.",
@@ -861,18 +883,7 @@
       "correcta": "C"
     },
     {
-      "id": 83,
-      "texto": "Según el Real Decreto 487/1997, 14 de abril, sobre disposiciones mínimas de seguridad relativas a la manipulación de cargas, ¿cuál de estas medidas no es obligatoria para el empresario?:",
-      "opciones": {
-        "A": "Formación e información.",
-        "B": "Vigilancia de la salud.",
-        "C": "Evitar la manipulación de cargas en la medida de lo posible.",
-        "D": "Todas las medidas anteriores son obligatorias."
-      },
-      "correcta": "D"
-    },
-    {
-      "id": 84,
+      "id": 81,
       "texto": "Las empresas que contraten o subcontraten con otras la realización de obras o servicios correspondientes a la propia actividad de aquellas, y que se desarrollen en sus propios centros de trabajo:",
       "opciones": {
         "A": "Deberán advertir a contratistas y subcontratistas del cumplimiento de la normativa de prevención de riesgos laborales, siendo estos últimos los responsables exclusivos de los posibles incumplimientos.",
@@ -883,18 +894,18 @@
       "correcta": "B"
     },
     {
-      "id": 85,
-      "texto": "En las reuniones del Comité de Seguridad y Salud, pueden participar con voz pero sin voto:",
+      "id": 82,
+      "texto": "Según el Real Decreto 487/1997, 14 de abril, sobre disposiciones mínimas de seguridad relativas a la manipulación de cargas, ¿cuál de estas medidas no es obligatoria para el empresario?:",
       "opciones": {
-        "A": "El empresario y sus representantes.",
-        "B": "Los Delegados de Prevención, si no son Delegados Sindicales.",
-        "C": "Los Delegados Sindicales, si no son Delegados de Prevención.",
-        "D": "Todos tienen voz y voto."
+        "A": "Formación e información.",
+        "B": "Vigilancia de la salud.",
+        "C": "Evitar la manipulación de cargas en la medida de lo posible.",
+        "D": "Todas las medidas anteriores son obligatorias."
       },
-      "correcta": "C"
+      "correcta": "D"
     },
     {
-      "id": 86,
+      "id": 83,
       "texto": "El artículo 23 de la Ley 31/95, de 8 de noviembre sobre prevención de riesgos laborales, establece de manera taxativa la documentación que el empresario debe elaborar y conservar a disposición de la autoridad laboral. ¿Cuál de las respuestas no se encuentra entre esa documentación?:",
       "opciones": {
         "A": "Plan de ordenación de recursos humanos.",
@@ -905,7 +916,7 @@
       "correcta": "A"
     },
     {
-      "id": 87,
+      "id": 84,
       "texto": "La integración de la actividad preventiva, está expresamente contemplada en el artículo 1 de:",
       "opciones": {
         "A": "Ley 31/95 de 8 de noviembre, sobre prevención de riesgos laborales.",
@@ -916,7 +927,7 @@
       "correcta": "B"
     },
     {
-      "id": 88,
+      "id": 85,
       "texto": "El Servicio de Prevención, según el artículo 31 de la Ley 31/95 de 8 de noviembre, sobre prevención de riesgos laborales, asesora:",
       "opciones": {
         "A": "Al empresario, a los trabajadores y a sus representantes y a los órganos de representación especializados.",
@@ -927,7 +938,7 @@
       "correcta": "A"
     },
     {
-      "id": 89,
+      "id": 86,
       "texto": "Adaptar la altura de un mostrador para un celador de información, es una medida preventiva relacionada con la:",
       "opciones": {
         "A": "Psicosociología.",
@@ -938,7 +949,7 @@
       "correcta": "B"
     },
     {
-      "id": 90,
+      "id": 87,
       "texto": "¿Cómo denomina el artículo 24 de la Ley 31/95 de 8 de noviembre, sobre prevención de riesgos laborales, la situación que se genera cuando, en un mismo centro de trabajo, desarrollen actividades trabajadores de dos o más empresas, y éstas deban cooperar en la aplicación de la normativa sobre prevención de riesgos laborales?:",
       "opciones": {
         "A": "Cooperación en materia de prevención de riesgos laborales.",
@@ -949,7 +960,7 @@
       "correcta": "D"
     },
     {
-      "id": 91,
+      "id": 88,
       "texto": "¿Cómo define el artículo 35 de la Ley 31/95 de 8 de noviembre, sobre prevención de riesgos laborales, a los delegados de prevención?:",
       "opciones": {
         "A": "Son los representantes de la empresa y de los trabajadores con funciones específicas en materia de prevención de riesgos laborales.",
@@ -960,28 +971,15 @@
       "correcta": "B"
     },
     {
-      "id": 92,
+      "id": 89,
       "texto": "Las empresas que cuenten con varios centros de trabajo dotado de Comité de Seguridad y Salud, crearán un Comité Intercentros:",
       "opciones": {
         "A": "En todo caso.",
         "B": "Solo si se encuentran en distintas Comunidades Autónomas.",
-        "C": "Cuando asi lo determine el empresario.",
+        "C": "Cuando así lo determine el empresario.",
         "D": "Cuando así lo acuerden con sus trabajadores."
       },
       "correcta": "D"
     }
   ]
 }
-
-
-
-
-
-
-
-
-
-
-
-
-    
