@@ -33,8 +33,6 @@ export function toast(m) {
 /* ---------- Modales ---------- */
 export function initModales() {
   document.addEventListener('click', e => {
-    const b = e.target.closest('[data-modal]');
-    if (b) $('#' + b.dataset.modal).showModal();
     if (e.target instanceof HTMLDialogElement) e.target.close(); // clic en el fondo
   });
 }
@@ -54,13 +52,13 @@ export function configExamen(n) {
 }
 
 /* ---------- Menú principal ---------- */
-export function renderMenu(cats, { onStart, onDelete, ultimo }) {
+export function renderMenu(cats, { onStart, ultimo }) {
   const cont = $('#menu-lista');
   const abiertas = new Set([...cont.querySelectorAll('details[open] .cat-nombre')].map(e => e.textContent));
   cont.replaceChildren();
   if (!cats.size) {
     cont.append(h('div', { class: 'vacio' }, h('p', { class: 'vacio-icono' }, '📚'),
-      h('p', {}, h('b', {}, 'Todavía no hay tests')), h('p', { class: 'ayuda' }, 'Ve a «Crear» y sube tu primer test en TXT o JSON.')));
+      h('p', {}, h('b', {}, 'Todavía no hay tests')), h('p', { class: 'ayuda' }, 'Añade archivos .json en data/tests y regístralos en data/manifest.json.')));
     return;
   }
   [...cats.entries()].sort((a, b) => a[0].localeCompare(b[0], 'es')).forEach(([nombre, tests]) => {
@@ -70,12 +68,10 @@ export function renderMenu(cats, { onStart, onDelete, ultimo }) {
       const u = ultimo(t.id);
       det.append(h('article', { class: 'tarjeta-test' },
         h('div', {}, h('h3', {}, t.titulo),
-          h('p', { class: 'meta' }, `${t.preguntas.length} preguntas`, u ? ` · Último: ${u.nota.toFixed(1)}/10` : '',
-            h('span', { class: `etiqueta ${t.origen}` }, t.origen === 'oficial' ? 'Oficial' : 'Propio'))),
+          h('p', { class: 'meta' }, `${t.preguntas.length} preguntas`, u ? ` · Último: ${u.nota.toFixed(1)}/10` : '')),
         h('div', { class: 'tarjeta-acciones' },
           h('button', { class: 'btn btn-primario', onclick: () => onStart(t, 'repaso') }, 'Repaso'),
-          h('button', { class: 'btn btn-sec', onclick: () => onStart(t, 'examen') }, 'Examen'),
-          t.origen === 'propio' ? h('button', { class: 'btn-icono', 'aria-label': `Eliminar ${t.titulo}`, onclick: () => onDelete(t) }, '🗑') : null)));
+          h('button', { class: 'btn btn-sec', onclick: () => onStart(t, 'examen') }, 'Examen'))));
     });
     cont.append(det);
   });
@@ -155,9 +151,3 @@ export function renderResultado(s, res, cb) {
       h('button', { class: 'btn btn-sec', onclick: cb.onMenu }, 'Volver al menú')));
 }
 
-/* ---------- Mensajes de subida ---------- */
-export function mensajesCrear(lista) {
-  $('#crear-msg').replaceChildren(...lista.map(m => h('li', { class: m.ok ? 'ok' : 'error' }, m.texto,
-    m.errores ? h('ul', {}, m.errores.slice(0, 8).map(e => h('li', { style: 'background:none;padding:0;margin:0' }, e)),
-      m.errores.length > 8 ? h('li', { style: 'background:none;padding:0;margin:0' }, `…y ${m.errores.length - 8} errores más.`) : null) : null)));
-}
