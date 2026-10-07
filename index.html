@@ -1,1 +1,119 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#F4F7FB">
+  <title>Exámenes y Test</title>
+  <link rel="stylesheet" href="./css/main.css">
+  <link rel="stylesheet" href="./css/layout.css">
+  <link rel="stylesheet" href="./css/test.css">
+  <link rel="stylesheet" href="./css/modals.css">
+</head>
+<body>
+  <header class="app-header"><h1>Exámenes y Test</h1><p>Prepara tu oposición a tu ritmo</p></header>
 
+  <main class="contenedor">
+    <!-- Menú principal: se genera dinámicamente -->
+    <section id="pantalla-menu" class="pantalla"><div id="menu-lista"></div></section>
+
+    <!-- Crear: subida de TXT / JSON -->
+    <section id="pantalla-crear" class="pantalla" hidden>
+      <h2>Crear tests</h2>
+      <p class="ayuda">Sube archivos con tus preguntas. Se guardan en este navegador y aparecen en el menú, dentro de su categoría.</p>
+      <div class="subida">
+        <label class="btn btn-primario">Subir TXT<input class="sr-only" type="file" id="in-txt" accept=".txt,text/plain" multiple></label>
+        <button type="button" class="btn-info" data-modal="modal-info-txt" aria-label="Ver formato del archivo TXT"><img src="./assets/icons/info.svg" alt=""></button>
+      </div>
+      <div class="subida">
+        <label class="btn btn-primario">Subir JSON<input class="sr-only" type="file" id="in-json" accept=".json,application/json" multiple></label>
+        <button type="button" class="btn-info" data-modal="modal-info-json" aria-label="Ver formato del archivo JSON"><img src="./assets/icons/info.svg" alt=""></button>
+      </div>
+      <ul id="crear-msg" class="mensajes" aria-live="polite"></ul>
+    </section>
+
+    <!-- Guardado: exportar / importar -->
+    <section id="pantalla-guardado" class="pantalla" hidden>
+      <h2>Copia de seguridad</h2>
+      <p class="ayuda">Descarga tus tests propios y tus estadísticas, o restáuralos en otro navegador o dispositivo.</p>
+      <div class="subida">
+        <button type="button" class="btn btn-primario" id="btn-exportar">Exportar backup.json</button>
+      </div>
+      <div class="subida">
+        <label class="btn btn-sec">Importar backup.json<input class="sr-only" type="file" id="in-backup" accept=".json,application/json"></label>
+      </div>
+      <p class="ayuda" id="uso-almacen"></p>
+    </section>
+
+    <!-- Test en curso -->
+    <section id="pantalla-test" class="pantalla" hidden>
+      <div id="test-cabecera"></div><div id="test-cuerpo"></div><div id="test-pie"></div>
+    </section>
+
+    <!-- Resultados -->
+    <section id="pantalla-resultado" class="pantalla" hidden><div id="resultado"></div></section>
+  </main>
+
+  <nav class="nav" id="nav" aria-label="Secciones">
+    <button class="nav-btn" data-go="pantalla-menu"><span aria-hidden="true">📚</span>Tests</button>
+    <button class="nav-btn" data-go="pantalla-crear"><span aria-hidden="true">➕</span>Crear</button>
+    <button class="nav-btn" data-go="pantalla-guardado"><span aria-hidden="true">💾</span>Guardado</button>
+  </nav>
+
+  <!-- Modales -->
+  <dialog id="modal-info-txt" class="modal"><form method="dialog">
+    <h3>Formato del archivo TXT</h3>
+    <p>Una etiqueta entre corchetes por línea. Cada pregunta empieza con <b>[Pregunta]</b> y termina con <b>[Correcta]</b>. Admite de 2 a 6 opciones (A–F).</p>
+<pre>[Categoria] Celador
+[Titulo] Tema 1 Celador
+
+[Pregunta] ¿Cuál grupo de medicamentos es el más comúnmente implicado en una caída?
+[A] Antihistamínicos de primera generación
+[B] Antidiabéticos orales
+[C] Vasodilatadores
+[D] Benzodiacepinas
+[Correcta] D</pre>
+    <div class="modal-acciones"><button type="button" class="btn btn-sec" data-plantilla="txt">Descargar plantilla</button><button class="btn btn-primario">Cerrar</button></div>
+  </form></dialog>
+
+  <dialog id="modal-info-json" class="modal"><form method="dialog">
+    <h3>Formato del archivo JSON</h3>
+    <p>Un objeto con <b>categoria</b>, <b>titulo</b> y la lista <b>preguntas</b>. El campo <b>explicacion</b> es opcional.</p>
+<pre>{
+  "categoria": "Celador",
+  "titulo": "Tema 1 Celador",
+  "preguntas": [
+    {
+      "id": 1,
+      "texto": "¿Cuál grupo de medicamentos ...?",
+      "opciones": {
+        "A": "Antihistamínicos de primera generación",
+        "B": "Antidiabéticos orales",
+        "C": "Vasodilatadores",
+        "D": "Benzodiacepinas"
+      },
+      "correcta": "D"
+    }
+  ]
+}</pre>
+    <div class="modal-acciones"><button type="button" class="btn btn-sec" data-plantilla="json">Descargar plantilla</button><button class="btn btn-primario">Cerrar</button></div>
+  </form></dialog>
+
+  <dialog id="modal-confirm" class="modal"><form method="dialog">
+    <p id="confirm-msg"></p>
+    <div class="modal-acciones"><button value="no" class="btn btn-sec">Cancelar</button><button value="si" class="btn btn-primario">Aceptar</button></div>
+  </form></dialog>
+
+  <dialog id="modal-examen" class="modal"><form method="dialog">
+    <h3>Modo Examen</h3>
+    <label class="campo">Tiempo en minutos (0 = sin límite)<input type="number" id="ex-min" min="0" max="600" inputmode="numeric"></label>
+    <label class="campo">Penalización por fallo
+      <select id="ex-pen"><option value="0">Sin penalización</option><option value="0.25">Resta 1/4</option><option value="0.3333" selected>Resta 1/3</option><option value="0.5">Resta 1/2</option></select>
+    </label>
+    <div class="modal-acciones"><button value="no" class="btn btn-sec">Cancelar</button><button value="si" class="btn btn-primario">Empezar examen</button></div>
+  </form></dialog>
+
+  <div id="toast" role="status" aria-live="polite"></div>
+  <script type="module" src="./js/main.js"></script>
+</body>
+</html>
