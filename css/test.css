@@ -1,0 +1,47 @@
+/* Interfaz del examen y resultados */
+.barra-sup{display:flex;align-items:center;justify-content:space-between;gap:8px}
+.ronda{font-weight:600;color:var(--txt2);font-size:.92rem;text-align:center}
+.temporizador{min-width:64px;text-align:right;font-variant-numeric:tabular-nums;font-weight:700;color:var(--primario-h)}
+.temporizador.alerta{color:var(--ko)}
+.progreso{height:8px;background:#E3EAF5;border-radius:99px;overflow:hidden;margin:6px 0 10px}
+.progreso div{height:100%;background:linear-gradient(90deg,var(--primario),var(--acento));border-radius:99px;transition:width .3s}
+.contadores{display:flex;justify-content:space-between;color:var(--txt2);font-size:.92rem;margin-bottom:12px}
+.ok{color:var(--ok)} .ko{color:var(--ko)}
+
+.enunciado{background:var(--card);border:1px solid var(--borde);border-radius:var(--radio);padding:18px;box-shadow:var(--sombra);margin-bottom:14px;font-size:1.08rem;font-weight:600}
+.enunciado p{margin:0}
+.opciones{display:flex;flex-direction:column;gap:10px}
+.opcion{display:flex;align-items:center;gap:12px;padding:14px;background:var(--card);border:2px solid var(--borde);border-radius:var(--radio-s);cursor:pointer;min-height:56px;transition:background .15s,border-color .15s}
+.opcion:hover{border-color:#B9CCEE}
+.opcion input{width:22px;height:22px;accent-color:var(--primario);flex:none}
+.opcion .letra{flex:none;width:30px;height:30px;border-radius:50%;background:var(--primario-claro);color:var(--primario-h);display:grid;place-items:center;font-weight:700;font-size:.9rem}
+.opcion .texto{flex:1}
+.opcion .marca{flex:none;font-weight:800;width:20px;text-align:center}
+.opcion.elegida{border-color:var(--primario);background:#F0F5FE}
+.opcion.correcta{border-color:var(--ok);background:var(--ok-bg)}
+.opcion.correcta .marca{color:var(--ok)}
+.opcion.incorrecta{border-color:var(--ko);background:var(--ko-bg)}
+.opcion.incorrecta .marca{color:var(--ko)}
+.opcion.bloqueada{opacity:.55;background:#F1F3F7;cursor:not-allowed}
+.opcion.bloqueada .texto{text-decoration:line-through}
+.opcion.bloqueada .marca{color:var(--ko)}
+
+.solucion{margin-top:14px;padding:14px 16px;border-radius:var(--radio-s);background:var(--acento-claro);border-left:5px solid var(--ok)}
+.solucion.fallo{background:var(--ko-bg);border-left-color:var(--ko)}
+.solucion p{margin:0 0 4px}.solucion p:last-child{margin:0}
+.pie-acciones{display:flex;gap:10px;margin-top:18px}
+.pie-acciones .btn{flex:1}
+
+.tarjeta{background:var(--card);border:1px solid var(--borde);border-radius:var(--radio);box-shadow:var(--sombra);padding:22px 18px;margin-bottom:14px}
+.resumen{text-align:center}
+.nota{font-size:3rem;font-weight:800;margin:4px 0;line-height:1.1}
+.nota small{font-size:1.1rem;font-weight:600;color:var(--txt2)}
+.nota.aprobado{color:var(--ok)}.nota.suspenso{color:var(--ko)}
+.cifras{display:grid;grid-template-columns:repeat(auto-fit,minmax(90px,1fr));gap:10px;margin-top:14px}
+.cifra{background:var(--bg);border-radius:var(--radio-s);padding:10px 4px}
+.cifra b{display:block;font-size:1.3rem}.cifra span{font-size:.85rem;color:var(--txt2)}
+.revision summary{cursor:pointer;font-weight:600;min-height:44px;display:flex;align-items:center}
+.revision ol{padding-left:20px;margin:8px 0 0}
+.revision li{margin-bottom:14px}
+.felicidades{text-align:center;font-weight:600;color:var(--ok)}
+.acciones-fin{display:flex;flex-direction:column;gap:10px}
