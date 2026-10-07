@@ -4,27 +4,35 @@ import * as store from './storage.js';
 import { Sesion } from './testEngine.js';
 import { slug, validar } from './fileParser.js';
 
-let tests = [], sesion = null, timer = null, config = {};
+let tests = [], avisos = [], sesion = null, timer = null, config = {};
 
 /* ---------- Carga de tests (data/manifest.json) ---------- */
 const getJSON = async u => { const r = await fetch(u, { cache: 'no-cache' }); if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); };
 
-/** Lee el manifest y todos los tests. Devuelve la lista de archivos con problemas. */
+/** Lee el manifest y todos los tests. Devuelve una lista de avisos legibles para mostrar en pantalla. */
 async function cargarTests() {
   tests = [];
-  const fallidos = [];
-  try {
-    const m = await getJSON('./data/manifest.json');
-    for (const c of m.categorias || []) for (const f of c.archivos || []) {
-      try {
-        const raw = await getJSON(`./data/tests/${f}`);
-        const { test, errores } = validar({ ...raw, categoria: raw.categoria || c.nombre });
-        if (test) tests.push({ ...test, id: slug(f.replace(/\.json$/i, '')) }); // el id sale del nombre del archivo
-        else { fallidos.push(f); console.warn(`Test «${f}» ignorado:`, errores); }
-      } catch (e) { fallidos.push(f); console.warn(`No se pudo cargar ${f}`, e); }
+  const avisos = [];
+  let m;
+  try { m = await getJSON('./data/manifest.json'); }
+  catch (e) {
+    avisos.push(`No se pudo leer data/manifest.json (${e.message}). Comprueba que existe en esa ruta y que el JSON está bien escrito (comas entre elementos, comillas dobles, sin coma final).`);
+    return avisos;
+  }
+  if (!Array.isArray(m.categorias) || !m.categorias.length) avisos.push('El manifest no tiene ninguna categoría con archivos.');
+  for (const c of m.categorias || []) for (const f of c.archivos || []) {
+    try {
+      const raw = await getJSON(`./data/tests/${f}`);
+      const { test, errores } = validar({ ...raw, categoria: raw.categoria || c.nombre });
+      if (test) tests.push({ ...test, id: slug(f.replace(/\.json$/i, '')) }); // el id sale del nombre del archivo
+      else avisos.push(`«${f}» tiene errores: ${errores.slice(0, 3).join(' ')}${errores.length > 3 ? ` (y ${errores.length - 3} más)` : ''}`);
+    } catch (e) {
+      avisos.push(e instanceof SyntaxError
+        ? `«${f}» no es un JSON válido (${e.message}).`
+        : `No se encontró «data/tests/${f}» (${e.message}). Revisa el nombre exacto, las mayúsculas y que esté en esa carpeta.`);
     }
-  } catch (e) { console.warn('No se pudo leer data/manifest.json', e); }
-  return fallidos;
+  }
+  return avisos;
 }
 
 /* ---------- Menú ---------- */
@@ -32,6 +40,7 @@ function menu() {
   const cats = new Map();
   tests.forEach(t => { if (!cats.has(t.categoria)) cats.set(t.categoria, []); cats.get(t.categoria).push(t); });
   ui.renderMenu(cats, { onStart: iniciar, ultimo: store.lastStat });
+  if (avisos.length) ui.$('#menu-lista').prepend(ui.h('ul', { class: 'mensajes', role: 'alert' }, avisos.map(a => ui.h('li', { class: 'error' }, a))));
 }
 
 /* ---------- Flujo de test ---------- */
@@ -105,8 +114,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     } catch (err) { ui.toast(err.message); }
     e.target.value = '';
   });
-  const fallidos = await cargarTests();
+  avisos = await cargarTests();
   menu();
   ui.mostrar('pantalla-menu');
-  if (fallidos.length) ui.toast(`No se pudo cargar: ${fallidos.join(', ')} (detalles en la consola)`);
 });
