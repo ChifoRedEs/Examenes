@@ -2,7 +2,10 @@
   "categorias": [
     {
       "nombre": "Celador",
-      "archivos": ["celador_prueba.json"]
+      "archivos": [
+        "celador_prueba.json",
+        "celador_muestra.json"
+      ]
     }
   ]
 }
