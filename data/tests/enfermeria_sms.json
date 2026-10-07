@@ -1,0 +1,116 @@
+{
+  "categoria": "Enfermería SMS",
+  "titulo": "Test Enfermería SMS",
+  "preguntas": [
+    {
+      "id": 1,
+      "texto": "De acuerdo con la Ley 41/2002, que regula la autonomía del paciente y los derechos y obligaciones en materia de información y documentación clínica, ¿cuál de los siguientes no es exigible como contenido mínimo en el cumplimiento de la historia clínica?",
+      "opciones": {
+        "A": "El consentimiento informado",
+        "B": "La evolución y planificación de cuidados de enfermería",
+        "C": "La documentación relativa a la hoja clínico-estadística",
+        "D": "El documento que recoge la libre elección de médico"
+      },
+      "correcta": "D"
+    },
+    {
+      "id": 2,
+      "texto": "¿Cuál grupo de medicamentos es el más comúnmente implicado en una caída?",
+      "opciones": {
+        "A": "Antihistamínicos de primera generación",
+        "B": "Antidiabéticos orales",
+        "C": "Vasodilatadores",
+        "D": "Benzodiacepinas"
+      },
+      "correcta": "D"
+    },
+    {
+      "id": 3,
+      "texto": "AL ADMINISTRAR QUIMIOTERAPIA, ¿cuál de las siguientes precauciones no es necesaria seguir de acuerdo con las normativas de seguridad de la OCCUPATIONAL SAFETY AND HEALTH ADMINISTRATION (OSHA), LA ONCOLOGY NURSING SOCIETY (ONS), LOS HOSPITALES Y OTRAS INSTITUCIONES DE ATENCIÓN DE LA SALUD?",
+      "opciones": {
+        "A": "Usar guantes quirúrgicos al manipular fármacos antineoplásicos y las excreciones de pacientes que recibieron quimioterapia.",
+        "B": "Utilizar conexiones Luer-Lok en toda la tubería del equipo de venoclisis utilizado para administrar la quimioterapia.",
+        "C": "Emplear un gabinete de seguridad para productos biológicos en la preparación de todos los fármacos quimioterápicos.",
+        "D": "Desechar todo el equipo usado en la preparación y administración de la quimioterapia, en la papelera de la propia habitación del paciente."
+      },
+      "correcta": "D"
+    },
+    {
+      "id": 4,
+      "texto": "¿Qué efecto suele causar con mayor frecuencia la infección por Listeria en mujeres embarazadas?",
+      "opciones": {
+        "A": "Genera lesiones dérmicas con apariencia de pápulas eritematosas.",
+        "B": "Parto prematuro.",
+        "C": "Provoca cuadros hipertensivos antes de la semana 20 de gestación.",
+        "D": "Causa cervicitis mucopurulenta en el primer trimestre."
+      },
+      "correcta": "B"
+    },
+    {
+      "id": 5,
+      "texto": "¿Cuáles son los tres niveles subjetivos de sensaciones relacionados con las vibraciones en el transporte sanitario desde el punto de vista fisiológico?",
+      "opciones": {
+        "A": "Ruidos, turbulencias y derivados de la altura",
+        "B": "Todas son correctas",
+        "C": "Muy baja frecuencia, baja frecuencia y alta frecuencia",
+        "D": "Vibración perceptible, vibración molesta y vibración intolerable"
+      },
+      "correcta": "D"
+    },
+    {
+      "id": 6,
+      "texto": "¿Qué escala sería apropiada para la valoración del paciente con sospecha de ICTUS?",
+      "opciones": {
+        "A": "Escala de Hamilton.",
+        "B": "Escala Canadiense.",
+        "C": "Escala SOFA.",
+        "D": "Escala de Barthel."
+      },
+      "correcta": "B"
+    },
+    {
+      "id": 7,
+      "texto": "En relación con la vigilancia del bloqueo neuromuscular utilizando el \"tren de cuatro\" (TOF), ¿cuál afirmación es correcta?",
+      "opciones": {
+        "A": "Si se emplea un fármaco no despolarizante, las 4 respuestas son idénticas",
+        "B": "Un neuroestimulador consta de 3 electrodos (2 positivos y uno negativo), dispuestos a lo largo del nervio cubital intercalados",
+        "C": "La valoración de la respuesta se realiza de forma visual o táctil.",
+        "D": "El estímulo debe ser de al menos 90mA."
+      },
+      "correcta": "C"
+    },
+    {
+      "id": 8,
+      "texto": "En relación con las redes comunitarias, indique la opción INCORRECTA:",
+      "opciones": {
+        "A": "Las redes comunitarias son estructuras de colaboración para abordar un bien o problema compartido",
+        "B": "La evaluación de la puesta en marcha de acciones por una red comunitaria se realizará tras la finalización de las acciones y tendrá en cuenta principalmente su efectividad.",
+        "C": "La fortaleza de las redes comunitarias radica en su inclusividad (diversidad de sectores, profesiones y grupos sociales) y su flexibilidad (varias opciones de participación que pueden cambiar con el tiempo).",
+        "D": "El trabajo coordinado es esencial para implementar acciones en las redes comunitarias"
+      },
+      "correcta": "B"
+    },
+    {
+      "id": 9,
+      "texto": "¿Cuál es el tipo de preparado de nutrición enteral que proporciona un aporte proteico que representa el 18-30% del aporte energético total?",
+      "opciones": {
+        "A": "Hipoproteico.",
+        "B": "Equilibrado.",
+        "C": "Hiperproteico.",
+        "D": "Normoproteico."
+      },
+      "correcta": "C"
+    },
+    {
+      "id": 10,
+      "texto": "El señor D.C.M. fue intervenido hace seis días de una fractura de fémur. Súbitamente comienza con disnea, taquipnea y dolor en hemitórax derecho y tras ser valorado, una de las sospechas diagnósticas es de tromboembolismo pulmonar. ¿Cuál es la escala utilizada para valorar la posibilidad clínica de padecer un tromboembolismo pulmonar?",
+      "opciones": {
+        "A": "Escala de Wells",
+        "B": "Escala de Ashoworth.",
+        "C": "Escala de Gleason.",
+        "D": "Escala de Cincinatti."
+      },
+      "correcta": "A"
+    }
+  ]
+}
