@@ -1,9 +1,15 @@
 {
   "categorias": [
     {
-      "nombre": "Celador",
+      "nombre": "Celador SMS",
       "archivos": [
         "celador_prueba.json"
+      ]
+    },
+    {
+      "nombre": "Enfermería SMS",
+      "archivos": [
+        "enfermeria_sms.json"
       ]
     }
   ]
