@@ -11,7 +11,17 @@
   <link rel="stylesheet" href="./css/modals.css">
 </head>
 <body>
-  <header class="app-header"><h1>Exámenes y Test</h1><p>Prepara tu oposición a tu ritmo</p></header>
+  <header class="portada" id="portada">
+    <div class="portada-contenido">
+      <svg class="portada-icono" viewBox="0 0 64 64" aria-hidden="true"><rect x="6" y="6" width="52" height="52" rx="16" fill="#3F6FD0"/><path d="M20 33l8 8 17-18" fill="none" stroke="#fff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/><circle cx="51" cy="13" r="7" fill="#7FD1B9"/></svg>
+      <h1>Exámenes y Test</h1>
+      <p class="portada-sub">Prepara tu oposición, pregunta a pregunta</p>
+      <figure class="frase">
+        <blockquote id="frase-texto"></blockquote>
+        <button type="button" class="btn-texto" id="btn-frase">Otra frase</button>
+      </figure>
+    </div>
+  </header>
 
   <main class="contenedor">
     <!-- Menú principal: se genera dinámicamente -->
@@ -30,6 +40,25 @@
       <p class="ayuda" id="uso-almacen"></p>
     </section>
 
+    <!-- Contacto -->
+    <section id="pantalla-contacto" class="pantalla" hidden>
+      <h2>Contacto</h2>
+      <div class="caja-info">
+        <h3>¿Echas en falta un test?</h3>
+        <p>Puedes pedirme que cree uno nuevo. Ponte en contacto conmigo por WhatsApp y pásame el PDF de tu test: lo prepararé y lo añadiré a la app.</p>
+        <ol>
+          <li>Toca el logo de WhatsApp.</li>
+          <li>Se abrirá un chat conmigo con el mensaje ya escrito.</li>
+          <li>Adjunta tu PDF y envía.</li>
+        </ol>
+        <p class="ayuda">Los tests nuevos quedan disponibles para todos los que usen la app.</p>
+      </div>
+      <a id="wa-link" class="wa-enlace" href="#" target="_blank" rel="noopener noreferrer" aria-label="Escribirme por WhatsApp">
+        <img src="./assets/img/whatsapp.png" alt="" width="260" height="260">
+        <span>Escríbeme por WhatsApp</span>
+      </a>
+    </section>
+
     <!-- Test en curso -->
     <section id="pantalla-test" class="pantalla" hidden>
       <div id="test-cabecera"></div><div id="test-cuerpo"></div><div id="test-pie"></div>
@@ -42,6 +71,7 @@
   <nav class="nav" id="nav" aria-label="Secciones">
     <button class="nav-btn" data-go="pantalla-menu"><span aria-hidden="true">📚</span>Tests</button>
     <button class="nav-btn" data-go="pantalla-guardado"><span aria-hidden="true">💾</span>Guardado</button>
+    <button class="nav-btn" data-go="pantalla-contacto"><span aria-hidden="true">💬</span>Contacto</button>
   </nav>
 
   <!-- Modales -->
