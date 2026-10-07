@@ -3,8 +3,7 @@
     {
       "nombre": "Celador",
       "archivos": [
-        "celador_prueba.json",
-        "celador_muestra.json"
+        "celador_prueba.json"
       ]
     }
   ]
